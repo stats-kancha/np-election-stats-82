@@ -303,6 +303,20 @@ body::after {
   align-items: center;
 }
 
+.btn-bookmark {
+  background: none;
+  border: none;
+  color: var(--fg-dim);
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0 0.2rem;
+  line-height: 1;
+}
+
+.btn-bookmark { opacity: 0.3; }
+.btn-bookmark:hover { opacity: 0.7; }
+.btn-bookmark.bookmarked { opacity: 1; }
+
 .card-district {
   font-weight: 400;
   color: var(--fg-dim);
@@ -354,11 +368,44 @@ body::after {
   letter-spacing: 0.05em;
 }
 
-.status-elected { color: var(--fg); font-weight: 700; }
+.status-won { color: var(--fg); font-weight: 700; }
 .status-leading { color: var(--amber); }
 .status-counting {
   color: var(--fg-dim);
   animation: blink 1.5s step-end infinite;
+}
+
+.card { cursor: pointer; }
+.card:hover { border-color: var(--fg-dim); }
+.card.expanded { border-color: var(--cyan); grid-column: 1 / -1; }
+.card.expanded .card-candidates-all { display: block; }
+.card-candidates-all { display: none; margin-top: 0.3rem; border-top: 1px solid var(--border); padding-top: 0.3rem; }
+.card-margin { font-size: 0.7rem; color: var(--fg-dim); margin-top: 0.2rem; }
+
+.candidate-row.won-highlight { font-weight: 700; font-size: 0.85rem; }
+.cand-flag { width: 16px; height: 16px; object-fit: contain; flex-shrink: 0; vertical-align: middle; }
+
+/* ── STATUS FILTER ── */
+.status-filters {
+  display: flex;
+  gap: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.status-filter-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--fg-dim);
+  font-family: var(--font);
+  font-size: 0.75rem;
+  padding: 0.15rem 0.5rem;
+  cursor: pointer;
+}
+
+.status-filter-btn.active {
+  border-color: var(--fg);
+  color: var(--fg);
+  font-weight: 700;
 }
 
 /* ── PAGINATION ── */
@@ -502,6 +549,12 @@ body::after {
   <!-- CONSTITUENCY RESULTS -->
   <div class="constituency-section">
     <h2>Constituency Results</h2>
+    <div class="status-filters" id="status-filters">
+      <button class="status-filter-btn active" data-status="ALL">[ALL]</button>
+      <button class="status-filter-btn" data-status="WON">[WON]</button>
+      <button class="status-filter-btn" data-status="LEADING">[LEADING]</button>
+      <button class="status-filter-btn" data-status="COUNTING">[COUNTING]</button>
+    </div>
     <div class="search-box">
       <input type="text" id="search-input" placeholder="grep constituency...">
     </div>
@@ -513,7 +566,8 @@ body::after {
   <div class="footer">
     <span id="footer-sources"></span>
     <span id="footer-refresh">auto-refresh: 60s</span>
-    <a href="https://github.com/thapakazi/election-stats" target="_blank">github.com/thapakazi/election-stats</a>
+    <!-- TODO: update this URL to the actual repo once published -->
+    <a href="https://github.com/stats-kancha/np-election-82" target="_blank">github.com/stats-kancha/np-election-82</a> | leave a &#9733; on github
   </div>
 
 </div>
@@ -523,6 +577,21 @@ body::after {
   'use strict';
 
   // ── STATE ──
+  const BOOKMARKS_KEY = 'election82_bookmarks';
+  const DEFAULT_BOOKMARKS = ['jhapa-5'];
+
+  function loadBookmarks() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(BOOKMARKS_KEY));
+      if (saved) return new Set(saved);
+    } catch {}
+    return new Set(DEFAULT_BOOKMARKS);
+  }
+
+  function saveBookmarks() {
+    localStorage.setItem(BOOKMARKS_KEY, JSON.stringify([...state.bookmarks]));
+  }
+
   const state = {
     manifest: null,
     mergedData: null,
@@ -535,6 +604,9 @@ body::after {
     refreshTimer: null,
     refreshInterval: 60,
     refreshCountdown: 60,
+    bookmarks: loadBookmarks(),
+    statusFilter: 'ALL',
+    expandedSlug: null,
   };
 
   // ── DOM REFS ──
@@ -734,7 +806,9 @@ body::after {
 
   function renderProvinceTabs() {
     const provinces = state.mergedData.provinces || [];
-    let html = `<button class="province-tab ${state.currentProvince === 'ALL' ? 'active' : ''}" data-province="ALL">[ALL]</button>`;
+    const bmCount = state.bookmarks.size;
+    let html = `<button class="province-tab ${state.currentProvince === 'BOOKMARKS' ? 'active' : ''}" data-province="BOOKMARKS">[&#128278; ${bmCount}]</button>`;
+    html += `<button class="province-tab ${state.currentProvince === 'ALL' ? 'active' : ''}" data-province="ALL">[ALL]</button>`;
     for (const prov of provinces) {
       const active = state.currentProvince === String(prov.province_id) ? 'active' : '';
       html += `<button class="province-tab ${active}" data-province="${prov.province_id}">[${prov.province_id} ${prov.province_name}]</button>`;
@@ -746,8 +820,14 @@ body::after {
     const provinces = state.mergedData.provinces || [];
     let all = [];
     for (const prov of provinces) {
-      if (state.currentProvince !== 'ALL' && String(prov.province_id) !== state.currentProvince) continue;
+      if (state.currentProvince !== 'ALL' && state.currentProvince !== 'BOOKMARKS' && String(prov.province_id) !== state.currentProvince) continue;
       all = all.concat(prov.constituencies);
+    }
+    if (state.currentProvince === 'BOOKMARKS') {
+      all = all.filter(c => state.bookmarks.has(c.constituency));
+    }
+    if (state.statusFilter !== 'ALL') {
+      all = all.filter(c => getCardStatus(c) === state.statusFilter);
     }
     if (state.searchQuery) {
       const q = state.searchQuery.toLowerCase();
@@ -772,47 +852,121 @@ body::after {
     renderPagination(filtered.length, totalPages);
   }
 
-  function renderCard(c) {
-    const candidates = (c.candidates || []).slice(0, 4);
-    const hasWinner = candidates.some(cand => cand.is_winner);
+  function getCardStatus(c) {
+    const candidates = c.candidates || [];
     const hasLeading = candidates.some(cand => cand.is_leading);
     const anyVotes = candidates.some(cand => cand.votes > 0);
+    // Only trust is_winner from ekantipur (ratopati marks all leaders as winners)
+    if (c.source === 'ekantipur') {
+      const hasWinner = candidates.some(cand => cand.is_winner);
+      if (hasWinner) return 'WON';
+    }
+    if (hasLeading && anyVotes) return 'LEADING';
+    return 'COUNTING';
+  }
 
-    let status, statusClass;
-    if (hasWinner) {
-      status = 'ELECTED';
-      statusClass = 'status-elected';
-    } else if (hasLeading && anyVotes) {
-      status = 'LEADING';
-      statusClass = 'status-leading';
-    } else {
-      status = 'COUNTING';
-      statusClass = 'status-counting';
+  function getPartyColor(partyName) {
+    const parties = (state.mergedData && state.mergedData.party_summary) || [];
+    const nameMap = {
+      'Rastriya Swatantra Party': 'rastriya-swatantra-party-rsp',
+      'Nepali Congress': 'nepali-congress',
+      'CPN-UML': 'cpn-uml',
+      'CPN (Maoist Centre)': 'nepali-communist-party',
+      'Rastriya Prajatantra Party': 'rastriya-prajatantra-party',
+    };
+    const slug = nameMap[partyName];
+    if (slug) {
+      const p = parties.find(p => p.party_slug === slug);
+      if (p && p.party_color) return p.party_color;
+    }
+    const p = parties.find(p => p.party_name === partyName);
+    if (p && p.party_color) return p.party_color;
+    return null;
+  }
+
+  function renderCandidateRow(cand, anyVotes, isTrustedSource) {
+    const isRealWinner = cand.is_winner && isTrustedSource;
+    let cls = '';
+    if (isRealWinner) cls = 'winner won-highlight';
+    else if (cand.is_leading && anyVotes) cls = 'leading';
+
+    const marker = isRealWinner ? '\u25b6' : (cand.is_leading && anyVotes ? '\u25b7' : ' ');
+    const partyShort = abbreviateParty(cand.party);
+    const partyColor = getPartyColor(cand.party);
+    const colorStyle = (isRealWinner || (cand.is_leading && anyVotes)) && partyColor ? `style="color:${partyColor}"` : '';
+    const flagImg = cand.party_flag ? `<img class="cand-flag" src="${cand.party_flag}" alt="">` : '';
+
+    return `<div class="candidate-row ${cls}" ${colorStyle}>
+      <span class="cand-marker">${marker}</span>
+      ${isRealWinner || (cand.is_leading && anyVotes) ? flagImg : ''}
+      <span class="cand-name" title="${cand.name}">${cand.name}${highlightCandidate(cand)}</span>
+      <span class="cand-party" title="${cand.party || ''}">${partyShort}</span>
+      <span class="cand-votes">${formatNumber(cand.votes)}</span>
+    </div>`;
+  }
+
+  function renderCard(c) {
+    const allCandidates = [...(c.candidates || [])];
+    const isTrustedSource = c.source === 'ekantipur';
+    // Sort: winners first (only from trusted source), then leading, then by votes desc
+    allCandidates.sort((a, b) => {
+      if (isTrustedSource && a.is_winner !== b.is_winner) return a.is_winner ? -1 : 1;
+      if (a.is_leading !== b.is_leading) return a.is_leading ? -1 : 1;
+      return b.votes - a.votes;
+    });
+    const anyVotes = allCandidates.some(cand => cand.votes > 0);
+    const isExpanded = state.expandedSlug === c.constituency;
+    const topCandidates = allCandidates.slice(0, 4);
+    const restCandidates = allCandidates.slice(4);
+
+    const status = getCardStatus(c);
+    const statusClassMap = { WON: 'status-won', LEADING: 'status-leading', COUNTING: 'status-counting' };
+    const statusClass = statusClassMap[status];
+
+    const candHTML = topCandidates.map(cand => renderCandidateRow(cand, anyVotes, isTrustedSource)).join('');
+
+    let expandedHTML = '';
+    if (restCandidates.length > 0) {
+      expandedHTML = `<div class="card-candidates-all">${restCandidates.map(cand => renderCandidateRow(cand, anyVotes, isTrustedSource)).join('')}</div>`;
     }
 
-    const candHTML = candidates.map(cand => {
-      let cls = '';
-      if (cand.is_winner) cls = 'winner';
-      else if (cand.is_leading && anyVotes) cls = 'leading';
+    let marginHTML = '';
+    if (isExpanded && allCandidates.length >= 2) {
+      const sorted = [...allCandidates].sort((a, b) => b.votes - a.votes);
+      const margin = sorted[0].votes - sorted[1].votes;
+      marginHTML = `<div class="card-margin">margin: ${formatNumber(margin)} votes | ${allCandidates.length} candidates | source: ${c.source || '?'}</div>`;
+    }
 
-      const marker = cand.is_winner ? '\u25b6' : (cand.is_leading && anyVotes ? '\u25b7' : ' ');
-      const partyShort = abbreviateParty(cand.party);
-      return `<div class="candidate-row ${cls}">
-        <span class="cand-marker">${marker}</span>
-        <span class="cand-name" title="${cand.name}">${cand.name}</span>
-        <span class="cand-party" title="${cand.party || ''}">${partyShort}</span>
-        <span class="cand-votes">${formatNumber(cand.votes)}</span>
-      </div>`;
-    }).join('');
+    const isBookmarked = state.bookmarks.has(c.constituency);
+    const bmClass = isBookmarked ? 'bookmarked' : '';
+    const bmIcon = '\uD83D\uDD16';
+    const expandedClass = isExpanded ? 'expanded' : '';
 
-    return `<div class="card">
+    return `<div class="card ${expandedClass}" data-card-slug="${c.constituency}">
       <div class="card-slug">
         <span>${c.constituency}</span>
-        <span class="card-district">${c.district}</span>
+        <span>
+          <button class="btn-bookmark ${bmClass}" data-slug="${c.constituency}" title="bookmark">${bmIcon}</button>
+          <span class="card-district">${c.district}</span>
+        </span>
       </div>
       ${candHTML}
-      <div class="card-status ${statusClass}">[${status}]</div>
+      ${expandedHTML}
+      ${marginHTML}
+      <div class="card-status ${statusClass}">[${status}]${status === 'WON' ? ' ' + winnerSummary(allCandidates, isTrustedSource) : ''}</div>
     </div>`;
+  }
+
+  function winnerSummary(candidates, isTrustedSource) {
+    if (!isTrustedSource) return '';
+    const w = candidates.find(c => c.is_winner);
+    if (!w) return '';
+    return `<span style="color:var(--fg);font-weight:400">${w.name} (${w.party || ''})</span>`;
+  }
+
+  function highlightCandidate(cand) {
+    if (cand.name === 'Balendra Shah') return ' \uD83D\uDD25';
+    return '';
   }
 
   function abbreviateParty(party) {
@@ -925,6 +1079,38 @@ body::after {
       state.currentPage++;
       renderConstituencies();
     }
+  });
+
+  grid.addEventListener('click', (e) => {
+    // Bookmark toggle
+    const btn = e.target.closest('.btn-bookmark');
+    if (btn) {
+      const slug = btn.dataset.slug;
+      if (state.bookmarks.has(slug)) {
+        state.bookmarks.delete(slug);
+      } else {
+        state.bookmarks.add(slug);
+      }
+      saveBookmarks();
+      renderProvinceTabs();
+      renderConstituencies();
+      return;
+    }
+    // Card expand/collapse
+    const card = e.target.closest('.card');
+    if (!card) return;
+    const slug = card.dataset.cardSlug;
+    state.expandedSlug = (state.expandedSlug === slug) ? null : slug;
+    renderConstituencies();
+  });
+
+  $('#status-filters').addEventListener('click', (e) => {
+    const btn = e.target.closest('.status-filter-btn');
+    if (!btn) return;
+    state.statusFilter = btn.dataset.status;
+    state.currentPage = 1;
+    document.querySelectorAll('.status-filter-btn').forEach(b => b.classList.toggle('active', b.dataset.status === state.statusFilter));
+    renderConstituencies();
   });
 
   searchInput.addEventListener('input', (e) => {
