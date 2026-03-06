@@ -37,7 +37,7 @@ def fetch_url(url: str, params: dict = None, timeout: int = 30) -> str:
     """Fetch a URL with retries and return the response text."""
     logger = get_logger("fetch")
     headers = {
-        "User-Agent": "ElectionStats/1.0 (github.com/thapakazi/election-stats)",
+        "User-Agent": "ElectionStats/1.0 (github.com/stats-kancha/np-election-82)",
     }
     for attempt in range(3):
         try:

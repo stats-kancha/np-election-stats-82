@@ -5,7 +5,7 @@ import sys
 import traceback
 from pathlib import Path
 
-from scrapers.base import get_logger, save_merged, now_npt, SNAPSHOTS_DIR
+from scrapers.base import get_logger, save_merged, now_npt, SNAPSHOTS_DIR, DATA_DIR, MERGED_DIR
 
 LOG = get_logger("run_all")
 
@@ -29,31 +29,57 @@ def run_scraper(name: str, module_path: str) -> dict | None:
         return None
 
 
+def _source_quality(record: dict) -> tuple:
+    """Score a constituency record for merge priority.
+
+    Returns a tuple for sorting (higher = better):
+    - number of candidates with non-zero votes
+    - whether party names are populated
+    - total vote count
+    """
+    candidates = record.get("candidates", [])
+    votes_reported = sum(1 for c in candidates if c.get("votes", 0) > 0)
+    parties_filled = sum(1 for c in candidates if c.get("party"))
+    total_votes = sum(c.get("votes", 0) for c in candidates)
+    return (votes_reported, parties_filled, total_votes)
+
+
 def merge_snapshots(snapshots: dict[str, dict]) -> dict:
     """Merge snapshots from multiple sources into a single view.
 
-    For now, uses ekantipur as primary source.
-    Future: cross-reference vote counts, flag discrepancies.
+    For each constituency, picks the source with the best data quality
+    (most non-zero vote counts, most party names filled, highest total votes).
+    Other sources are preserved in alt_sources for cross-validation.
+
+    No attempt is made to match candidates across languages (English vs Nepali).
     """
-    merged_constituencies = {}
+    # Collect all records per constituency slug
+    by_slug: dict[str, list[dict]] = {}
 
     for source, snapshot in snapshots.items():
         if not snapshot:
             continue
         for record in snapshot.get("constituencies", []):
             slug = record["constituency"]
-            if slug not in merged_constituencies:
-                merged_constituencies[slug] = record
-            else:
-                # Store alternate source data for comparison
-                existing = merged_constituencies[slug]
-                if "alt_sources" not in existing:
-                    existing["alt_sources"] = []
-                existing["alt_sources"].append({
-                    "source": record["source"],
-                    "candidates": record["candidates"],
-                    "scraped_at": record["scraped_at"],
-                })
+            if slug not in by_slug:
+                by_slug[slug] = []
+            by_slug[slug].append(record)
+
+    # Pick the best source as primary, rest as alt_sources
+    merged_constituencies = {}
+    for slug, records in by_slug.items():
+        records.sort(key=_source_quality, reverse=True)
+        primary = records[0]
+        if len(records) > 1:
+            primary["alt_sources"] = [
+                {
+                    "source": r["source"],
+                    "candidates": r["candidates"],
+                    "scraped_at": r["scraped_at"],
+                }
+                for r in records[1:]
+            ]
+        merged_constituencies[slug] = primary
 
     # Group by province
     by_province = {}
@@ -86,6 +112,25 @@ def merge_snapshots(snapshots: dict[str, dict]) -> dict:
         "party_summary": party_summary,
         "provinces": sorted(by_province.values(), key=lambda p: p["province_id"]),
     }
+
+
+def generate_manifest() -> Path:
+    """Generate data/manifest.json listing all available snapshot and merged files."""
+    manifest = {"snapshots": {}, "merged": []}
+
+    for source_dir in sorted(SNAPSHOTS_DIR.iterdir()):
+        if source_dir.is_dir():
+            files = sorted(f.name for f in source_dir.glob("*.json"))
+            if files:
+                manifest["snapshots"][source_dir.name] = files
+
+    merged_files = sorted(f.name for f in MERGED_DIR.glob("*.json"))
+    manifest["merged"] = merged_files
+
+    manifest_path = DATA_DIR / "manifest.json"
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
+    LOG.info("Generated manifest: %s", manifest_path)
+    return manifest_path
 
 
 def load_latest_snapshots() -> dict[str, dict]:
@@ -121,6 +166,8 @@ def main():
 
     merged = merge_snapshots(successful)
     save_merged(merged)
+
+    generate_manifest()
 
     LOG.info(
         "=== Done: %d sources, %d constituencies ===",

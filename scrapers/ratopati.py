@@ -101,10 +101,15 @@ def _scrape_constituency_page(constituency: dict) -> dict | None:
         img = logo_link.find("img") if logo_link else None
         name = img["alt"].strip() if img and img.get("alt") else ""
 
-        # Party name
+        # Party name — inside party-info > a.party-sign text (not the span)
         party_info = container.find("div", class_="party-info")
-        party_name_el = party_info.find("span", class_="party-name") if party_info else None
-        party = party_name_el.get_text(strip=True) if party_name_el else ""
+        party = ""
+        if party_info:
+            party_sign_link = party_info.find("a", class_="party-sign")
+            if party_sign_link:
+                # The party name is the text node inside the <a>, not the <img> alt
+                party_img = party_sign_link.find("img")
+                party = party_img["alt"].strip() if party_img and party_img.get("alt") else ""
 
         # Votes
         votes_el = container.find("span", class_="votes")

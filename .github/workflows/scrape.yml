@@ -56,7 +56,7 @@ jobs:
         run: |
           git config user.name "election-stats-bot"
           git config user.email "bot@election-stats"
-          git add data/merged/
+          git add data/merged/ data/manifest.json
           git diff --cached --quiet || {
             git commit -m "data(merged): $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git pull --rebase
