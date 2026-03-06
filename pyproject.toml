@@ -1,0 +1,16 @@
+[project]
+name = "election-stats"
+version = "0.1.0"
+description = "Aggregate Nepal election 2082 results from multiple portals"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["scrapers"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,62 @@
+name: Scrape Election Data
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        scraper: [ekantipur, ratopati, onlinekhabar]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Run ${{ matrix.scraper }} scraper
+        run: uv run python -m scrapers.${{ matrix.scraper }}
+
+      - name: Commit data
+        run: |
+          git config user.name "election-stats-bot"
+          git config user.email "bot@election-stats"
+          git add data/
+          git diff --cached --quiet || {
+            git commit -m "data(${{ matrix.scraper }}): snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          }
+
+  merge:
+    runs-on: ubuntu-latest
+    needs: scrape
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Pull latest snapshots
+        run: git pull --rebase
+
+      - name: Merge snapshots
+        run: uv run python -m scrapers.run_all --merge-only
+
+      - name: Commit merged data
+        run: |
+          git config user.name "election-stats-bot"
+          git config user.email "bot@election-stats"
+          git add data/merged/
+          git diff --cached --quiet || {
+            git commit -m "data(merged): $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase
+            git push
+          }
