@@ -90,7 +90,14 @@ def _scrape_constituency_page(constituency: dict) -> dict | None:
         return None
 
     soup = BeautifulSoup(html, "html.parser")
-    containers = soup.find_all("div", class_="party-container")
+
+    # The page has multiple result-container divs (2082 + 2079 elections).
+    # Only scrape from the first one (current 2082 election).
+    result_section = soup.find("div", class_="result-container")
+    if not result_section:
+        LOG.warning("No result-container found for %s", alias)
+        return None
+    containers = result_section.find_all("div", class_="party-container")
 
     candidates = []
     for container in containers:
