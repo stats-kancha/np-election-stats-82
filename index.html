@@ -23,6 +23,123 @@
   --font: 'JetBrains Mono', monospace;
 }
 
+[data-theme="dracula"] {
+  --bg: #282a36;
+  --fg: #f8f8f2;
+  --fg-dim: #6272a4;
+  --amber: #f1fa8c;
+  --red: #ff5555;
+  --cyan: #8be9fd;
+  --border: #44475a;
+  --panel-bg: #21222c;
+  --card-bg: #2d2f3d;
+  --card-border: #44475a;
+}
+
+[data-theme="monokai"] {
+  --bg: #272822;
+  --fg: #f8f8f2;
+  --fg-dim: #75715e;
+  --amber: #e6db74;
+  --red: #f92672;
+  --cyan: #66d9ef;
+  --border: #3e3d32;
+  --panel-bg: #1e1f1c;
+  --card-bg: #2d2e28;
+  --card-border: #3e3d32;
+}
+
+[data-theme="nord"] {
+  --bg: #2e3440;
+  --fg: #d8dee9;
+  --fg-dim: #616e88;
+  --amber: #ebcb8b;
+  --red: #bf616a;
+  --cyan: #88c0d0;
+  --border: #3b4252;
+  --panel-bg: #272c36;
+  --card-bg: #353b48;
+  --card-border: #3b4252;
+}
+
+[data-theme="solarized-dark"] {
+  --bg: #002b36;
+  --fg: #839496;
+  --fg-dim: #586e75;
+  --amber: #b58900;
+  --red: #dc322f;
+  --cyan: #2aa198;
+  --border: #073642;
+  --panel-bg: #00242d;
+  --card-bg: #073642;
+  --card-border: #0a4a5a;
+}
+
+[data-theme="paper"] {
+  --bg: #f5f5f0;
+  --fg: #0f2d0f;
+  --fg-dim: #4a6b4a;
+  --amber: #b37a00;
+  --red: #cc3333;
+  --cyan: #0077aa;
+  --border: #c5d5c5;
+  --panel-bg: #eeeee8;
+  --card-bg: #fafaf5;
+  --card-border: #c5d5c5;
+}
+
+[data-theme="solarized-light"] {
+  --bg: #fdf6e3;
+  --fg: #657b83;
+  --fg-dim: #93a1a1;
+  --amber: #b58900;
+  --red: #dc322f;
+  --cyan: #2aa198;
+  --border: #eee8d5;
+  --panel-bg: #f5efdc;
+  --card-bg: #fdf6e3;
+  --card-border: #eee8d5;
+}
+
+[data-theme="github"] {
+  --bg: #ffffff;
+  --fg: #1f2328;
+  --fg-dim: #656d76;
+  --amber: #bf8700;
+  --red: #cf222e;
+  --cyan: #0969da;
+  --border: #d0d7de;
+  --panel-bg: #f6f8fa;
+  --card-bg: #ffffff;
+  --card-border: #d0d7de;
+}
+
+[data-theme="latte"] {
+  --bg: #eff1f5;
+  --fg: #4c4f69;
+  --fg-dim: #8c8fa1;
+  --amber: #df8e1d;
+  --red: #d20f39;
+  --cyan: #179299;
+  --border: #ccd0da;
+  --panel-bg: #e6e9ef;
+  --card-bg: #eff1f5;
+  --card-border: #ccd0da;
+}
+
+[data-theme="one-light"] {
+  --bg: #fafafa;
+  --fg: #383a42;
+  --fg-dim: #a0a1a7;
+  --amber: #c18401;
+  --red: #e45649;
+  --cyan: #0184bc;
+  --border: #d3d3d3;
+  --panel-bg: #f0f0f0;
+  --card-bg: #fafafa;
+  --card-border: #d3d3d3;
+}
+
 html { font-size: 14px; }
 
 body {
@@ -49,6 +166,8 @@ body::after {
   pointer-events: none;
   z-index: 9999;
 }
+
+html:not([data-theme="terminal"]) body::after { display: none; }
 
 .container {
   max-width: 1200px;
@@ -524,6 +643,22 @@ body::after {
     <div class="header-meta">
       <span id="last-scraped">loading...</span>
       <span id="source-status"></span>
+      <select id="theme-select" style="background:var(--bg);border:1px solid var(--fg);color:var(--fg);font-family:var(--font);font-size:0.8rem;padding:0.2rem 0.4rem;cursor:pointer;outline:none;">
+        <optgroup label="Dark">
+          <option value="terminal">Terminal</option>
+          <option value="dracula">Dracula</option>
+          <option value="monokai">Monokai</option>
+          <option value="nord">Nord</option>
+          <option value="solarized-dark">Solarized Dark</option>
+        </optgroup>
+        <optgroup label="Light">
+          <option value="paper">Paper</option>
+          <option value="solarized-light">Solarized Light</option>
+          <option value="github">GitHub</option>
+          <option value="latte">Latte</option>
+          <option value="one-light">One Light</option>
+        </optgroup>
+      </select>
     </div>
   </div>
 
@@ -555,6 +690,13 @@ body::after {
       <button class="status-filter-btn" data-status="LEADING">[LEADING]</button>
       <button class="status-filter-btn" data-status="COUNTING">[COUNTING]</button>
     </div>
+    <div class="status-filters" id="source-filters">
+      <span style="font-size:0.75rem;color:var(--fg-dim);margin-right:0.3rem;">SRC:</span>
+      <button class="status-filter-btn active" data-source="ALL">[ALL]</button>
+      <button class="status-filter-btn" data-source="ekantipur">[ekantipur]</button>
+      <button class="status-filter-btn" data-source="ratopati">[ratopati]</button>
+      <button class="status-filter-btn" data-source="onlinekhabar">[onlinekhabar]</button>
+    </div>
     <div class="search-box">
       <input type="text" id="search-input" placeholder="grep constituency...">
     </div>
@@ -567,7 +709,7 @@ body::after {
     <span id="footer-sources"></span>
     <span id="footer-refresh">auto-refresh: 60s</span>
     <!-- TODO: update this URL to the actual repo once published -->
-    <a href="https://github.com/stats-kancha/np-election-82" target="_blank">github.com/stats-kancha/np-election-82</a> | leave a &#9733; on github
+    <a href="https://github.com/stats-kancha/np-election-stats-82" target="_blank">github.com/stats-kancha/np-election-stats-82</a> | leave a &#9733; on github
   </div>
 
 </div>
@@ -575,6 +717,20 @@ body::after {
 <script>
 (function() {
   'use strict';
+
+  // ── THEME ──
+  const THEME_KEY = 'election82_theme';
+  function applyTheme(theme) {
+    document.documentElement.dataset.theme = theme;
+    const sel = document.getElementById('theme-select');
+    if (sel) sel.value = theme;
+    localStorage.setItem(THEME_KEY, theme);
+  }
+  // Migrate old values
+  let savedTheme = localStorage.getItem(THEME_KEY) || 'terminal';
+  if (savedTheme === 'dark') savedTheme = 'terminal';
+  if (savedTheme === 'light') savedTheme = 'paper';
+  applyTheme(savedTheme);
 
   // ── STATE ──
   const BOOKMARKS_KEY = 'election82_bookmarks';
@@ -606,6 +762,7 @@ body::after {
     refreshCountdown: 60,
     bookmarks: loadBookmarks(),
     statusFilter: 'ALL',
+    sourceFilter: 'ALL',
     expandedSlug: null,
   };
 
@@ -825,6 +982,9 @@ body::after {
     }
     if (state.currentProvince === 'BOOKMARKS') {
       all = all.filter(c => state.bookmarks.has(c.constituency));
+    }
+    if (state.sourceFilter !== 'ALL') {
+      all = all.filter(c => c.source === state.sourceFilter);
     }
     if (state.statusFilter !== 'ALL') {
       all = all.filter(c => getCardStatus(c) === state.statusFilter);
@@ -1049,6 +1209,10 @@ body::after {
     loadMergedData();
   });
 
+  $('#theme-select').addEventListener('change', (e) => {
+    applyTheme(e.target.value);
+  });
+
   function setLiveMode(live) {
     state.isLive = live;
     btnLive.classList.toggle('active', live);
@@ -1110,6 +1274,15 @@ body::after {
     state.statusFilter = btn.dataset.status;
     state.currentPage = 1;
     document.querySelectorAll('.status-filter-btn').forEach(b => b.classList.toggle('active', b.dataset.status === state.statusFilter));
+    renderConstituencies();
+  });
+
+  $('#source-filters').addEventListener('click', (e) => {
+    const btn = e.target.closest('.status-filter-btn');
+    if (!btn) return;
+    state.sourceFilter = btn.dataset.source;
+    state.currentPage = 1;
+    document.querySelectorAll('#source-filters .status-filter-btn').forEach(b => b.classList.toggle('active', b.dataset.source === state.sourceFilter));
     renderConstituencies();
   });
 
