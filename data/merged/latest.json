@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-07T14:04:25.658403+05:45",
+  "scraped_at": "2026-03-07T14:06:51.158403+05:45",
   "sources": [
     "ekantipur",
     "ratopati",
@@ -565,7 +565,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.064598+05:45",
+          "scraped_at": "2026-03-07T14:05:41.297147+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -697,7 +697,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.137895+05:45",
+          "scraped_at": "2026-03-07T14:05:41.364005+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -879,7 +879,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:40.798116+05:45",
+          "scraped_at": "2026-03-07T14:05:41.017227+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1021,7 +1021,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:40.915499+05:45",
+          "scraped_at": "2026-03-07T14:05:41.018646+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1173,7 +1173,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:40.855299+05:45",
+          "scraped_at": "2026-03-07T14:05:41.048987+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1335,7 +1335,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:40.769571+05:45",
+          "scraped_at": "2026-03-07T14:05:40.944434+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1527,7 +1527,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1881,13 +1881,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:40.701111+05:45"
+              "scraped_at": "2026-03-07T14:05:41.463773+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:40.821510+05:45",
+          "scraped_at": "2026-03-07T14:05:40.882269+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2059,7 +2059,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2553,13 +2553,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:40.738221+05:45"
+              "scraped_at": "2026-03-07T14:05:41.481012+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.669271+05:45",
+          "scraped_at": "2026-03-07T14:05:41.898550+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2721,7 +2721,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.090048+05:45",
+          "scraped_at": "2026-03-07T14:05:41.328424+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2903,7 +2903,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.165704+05:45",
+          "scraped_at": "2026-03-07T14:05:41.534258+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3085,7 +3085,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.220650+05:45",
+          "scraped_at": "2026-03-07T14:05:41.659131+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3154,16 +3154,6 @@
               "party_flag": ""
             },
             {
-              "name": "बिकेन्द्र राई",
-              "party": "मंगोल नेशनल अर्गनाइजेसन",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bikendra-rai_lr1onyvx0T.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "मित्रसेन योञ्जन",
               "party": "उज्यालो नेपाल पार्टी",
               "votes": 0,
@@ -3171,6 +3161,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/mitrasen-yonjan_yntqtVzOZu.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "बिकेन्द्र राई",
+              "party": "मंगोल नेशनल अर्गनाइजेसन",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bikendra-rai_lr1onyvx0T.jpg",
               "party_flag": ""
             },
             {
@@ -3204,16 +3204,6 @@
               "party_flag": ""
             },
             {
-              "name": "गणेश मिश्र",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ganesh-mishra_L6MZZ3s6Mz.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "प्रशुराम विश्वास  थारु",
               "party": "नेपाल मजदुर किसान पार्टी",
               "votes": 0,
@@ -3221,6 +3211,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/prashuram-bishwas-tharu_2kDqXoBKyn.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "गणेश मिश्र",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ganesh-mishra_L6MZZ3s6Mz.jpg",
               "party_flag": ""
             },
             {
@@ -3277,7 +3277,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.327332+05:45",
+          "scraped_at": "2026-03-07T14:05:41.423039+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3479,7 +3479,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.279260+05:45",
+          "scraped_at": "2026-03-07T14:05:41.392936+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3711,7 +3711,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.341447+05:45",
+          "scraped_at": "2026-03-07T14:05:41.851421+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3893,7 +3893,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.602350+05:45",
+          "scraped_at": "2026-03-07T14:05:41.825899+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -4055,7 +4055,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:40.893382+05:45",
+          "scraped_at": "2026-03-07T14:05:40.918632+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -4217,7 +4217,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.246970+05:45",
+          "scraped_at": "2026-03-07T14:05:40.975424+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -4389,7 +4389,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.867705+05:45",
+          "scraped_at": "2026-03-07T14:05:41.805961+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -4521,7 +4521,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5055,13 +5055,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:41.404019+05:45"
+              "scraped_at": "2026-03-07T14:05:41.622706+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.418668+05:45",
+          "scraped_at": "2026-03-07T14:05:41.696594+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5353,7 +5353,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.455378+05:45",
+          "scraped_at": "2026-03-07T14:05:41.749009+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5595,7 +5595,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.506385+05:45",
+          "scraped_at": "2026-03-07T14:05:41.785516+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5937,7 +5937,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.188706+05:45",
+          "scraped_at": "2026-03-07T14:05:40.852329+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6079,7 +6079,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.028596+05:45",
+          "scraped_at": "2026-03-07T14:05:41.217279+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6211,7 +6211,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.644918+05:45",
+          "scraped_at": "2026-03-07T14:05:42.053174+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6403,7 +6403,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.708035+05:45",
+          "scraped_at": "2026-03-07T14:05:41.971681+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6551,7 +6551,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.821750+05:45",
+          "scraped_at": "2026-03-07T14:05:43.284672+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -6763,7 +6763,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.194716+05:45",
+          "scraped_at": "2026-03-07T14:05:43.119246+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -7065,7 +7065,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.854663+05:45",
+          "scraped_at": "2026-03-07T14:05:43.399508+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -7317,7 +7317,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.908600+05:45",
+          "scraped_at": "2026-03-07T14:05:43.324880+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -7699,7 +7699,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.175885+05:45",
+          "scraped_at": "2026-03-07T14:05:42.390264+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -8131,7 +8131,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.089022+05:45",
+          "scraped_at": "2026-03-07T14:05:42.427763+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -8483,7 +8483,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.136063+05:45",
+          "scraped_at": "2026-03-07T14:05:42.510047+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -8945,7 +8945,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.295730+05:45",
+          "scraped_at": "2026-03-07T14:05:42.503032+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -9327,7 +9327,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.217542+05:45",
+          "scraped_at": "2026-03-07T14:05:42.567518+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -9589,7 +9589,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.281368+05:45",
+          "scraped_at": "2026-03-07T14:05:42.593714+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -9971,7 +9971,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.436911+05:45",
+          "scraped_at": "2026-03-07T14:05:42.687895+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -10393,7 +10393,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.430774+05:45",
+          "scraped_at": "2026-03-07T14:05:42.763721+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -10765,7 +10765,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.342689+05:45",
+          "scraped_at": "2026-03-07T14:05:43.229002+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11077,7 +11077,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.942326+05:45",
+          "scraped_at": "2026-03-07T14:05:43.268371+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11399,7 +11399,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.997504+05:45",
+          "scraped_at": "2026-03-07T14:05:43.360023+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11641,7 +11641,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.007846+05:45",
+          "scraped_at": "2026-03-07T14:05:43.469667+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11883,7 +11883,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -12677,13 +12677,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:42.587663+05:45"
+              "scraped_at": "2026-03-07T14:05:42.951324+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.650074+05:45",
+          "scraped_at": "2026-03-07T14:05:42.926614+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -12955,7 +12955,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.700691+05:45",
+          "scraped_at": "2026-03-07T14:05:43.003172+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -13104,16 +13104,6 @@
               "party_flag": ""
             },
             {
-              "name": "प्रभु राय यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/prabhu-rai-yadav_obAR3bokYE.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "उपेन्द्र मुखिया वीन",
               "party": "प्रगतिशील लोकतान्त्रिक पार्टी",
               "votes": 0,
@@ -13124,13 +13114,13 @@
               "party_flag": ""
             },
             {
-              "name": "हिरामती देवी कोइरी",
+              "name": "प्रभु राय यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/hiramati-devi-koiri_qtI9iZU4Oh.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/prabhu-rai-yadav_obAR3bokYE.jpg",
               "party_flag": ""
             },
             {
@@ -13144,13 +13134,13 @@
               "party_flag": ""
             },
             {
-              "name": "वीरेन्द्र कुमार गुप्‍ता",
-              "party": "नेपाल लोकतान्त्रिक पार्टी",
+              "name": "हिरामती देवी कोइरी",
+              "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/birendra-kumar-gupta_xXjuK6SstA.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/hiramati-devi-koiri_qtI9iZU4Oh.jpg",
               "party_flag": ""
             },
             {
@@ -13164,33 +13154,13 @@
               "party_flag": ""
             },
             {
-              "name": "दरोगा साह",
-              "party": "स्वतन्त्र",
+              "name": "वीरेन्द्र कुमार गुप्‍ता",
+              "party": "नेपाल लोकतान्त्रिक पार्टी",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/inspector-sah_j6YD8aat6Y.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "शिव चन्द्र शाह",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/shiva-chandra-shah_VebFVrBuEj.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "बिजय कुमार चौधरी",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bijay-kumar-chaudhary_5Q9gUHjGFA.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/birendra-kumar-gupta_xXjuK6SstA.jpg",
               "party_flag": ""
             },
             {
@@ -13204,6 +13174,16 @@
               "party_flag": ""
             },
             {
+              "name": "दरोगा साह",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/inspector-sah_j6YD8aat6Y.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "छविलाल महतो",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -13214,13 +13194,13 @@
               "party_flag": ""
             },
             {
-              "name": "उपेन्द्र पंडित कुम्हार",
+              "name": "बिजय कुमार चौधरी",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/upendra-pandit-kumhar_Js4mxlan71.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bijay-kumar-chaudhary_5Q9gUHjGFA.jpg",
               "party_flag": ""
             },
             {
@@ -13234,13 +13214,13 @@
               "party_flag": ""
             },
             {
-              "name": "शेख ओसी महमद",
+              "name": "शिव चन्द्र शाह",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sheikh-osi-mohammad_2Zyn45UOFg.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/shiva-chandra-shah_VebFVrBuEj.jpg",
               "party_flag": ""
             },
             {
@@ -13254,6 +13234,26 @@
               "party_flag": ""
             },
             {
+              "name": "शेख ओसी महमद",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sheikh-osi-mohammad_2Zyn45UOFg.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "उपेन्द्र पंडित कुम्हार",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/upendra-pandit-kumhar_Js4mxlan71.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "जहुर आलम",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -13264,16 +13264,6 @@
               "party_flag": ""
             },
             {
-              "name": "भागनारायण राय",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhagannarayan-rai_1ItdgBAspV.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "पुनित राम महरा",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -13281,6 +13271,26 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/punit-ram-mahara_PIlreEk4Zj.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "भरत राय यादव",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bharat-rai-yadav_vNTvlDE1kX.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "भागनारायण राय",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhagannarayan-rai_1ItdgBAspV.jpg",
               "party_flag": ""
             },
             {
@@ -13304,26 +13314,6 @@
               "party_flag": ""
             },
             {
-              "name": "भोला पाण्डेय",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhola-pandey_dQKB4b88dc.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "भरत राय यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bharat-rai-yadav_vNTvlDE1kX.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "सुरेन्द्र बैठा",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -13334,13 +13324,13 @@
               "party_flag": ""
             },
             {
-              "name": "रतनेश महतो कोइरी",
+              "name": "भोला पाण्डेय",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ratnesh-mahato-koiri_UeG0S4y2MX.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhola-pandey_dQKB4b88dc.jpg",
               "party_flag": ""
             },
             {
@@ -13351,6 +13341,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/lalbabu-prasad-kushwaha_M7xJFiTv4I.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रतनेश महतो कोइरी",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ratnesh-mahato-koiri_UeG0S4y2MX.jpg",
               "party_flag": ""
             },
             {
@@ -13367,7 +13367,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.738173+05:45",
+          "scraped_at": "2026-03-07T14:05:43.038034+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -13749,7 +13749,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.757923+05:45",
+          "scraped_at": "2026-03-07T14:05:42.008400+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -13971,7 +13971,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -14665,13 +14665,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:41.544779+05:45"
+              "scraped_at": "2026-03-07T14:05:42.085291+05:45"
             }
           ]
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -15125,13 +15125,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:41.837751+05:45"
+              "scraped_at": "2026-03-07T14:05:42.127378+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.966742+05:45",
+          "scraped_at": "2026-03-07T14:05:42.163367+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -15393,7 +15393,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.447585+05:45",
+          "scraped_at": "2026-03-07T14:05:42.742030+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -15685,7 +15685,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -16319,13 +16319,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:42.565713+05:45"
+              "scraped_at": "2026-03-07T14:05:42.800779+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.586463+05:45",
+          "scraped_at": "2026-03-07T14:05:42.690157+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -16677,7 +16677,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -17451,13 +17451,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:42.603841+05:45"
+              "scraped_at": "2026-03-07T14:05:42.883252+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.862540+05:45",
+          "scraped_at": "2026-03-07T14:05:42.234124+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -17789,7 +17789,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:41.963065+05:45",
+          "scraped_at": "2026-03-07T14:05:42.284524+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -18091,7 +18091,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.011519+05:45",
+          "scraped_at": "2026-03-07T14:05:42.262331+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -18513,7 +18513,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:42.054002+05:45",
+          "scraped_at": "2026-03-07T14:05:42.351658+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -18592,6 +18592,16 @@
               "party_flag": ""
             },
             {
+              "name": "दिलिप कुमार महरा",
+              "party": "बहुजन एकता पार्टी नेपाल(एकल चुनाव चिन्ह)",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/dilip-kumar-mahara_62cWZasrF1.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "सुभेन्द्र कुमार साह",
               "party": "राष्ट्रिय प्रजातन्त्र पार्टी",
               "votes": 0,
@@ -18609,16 +18619,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bishwendra-paswan_OSAeQXnJFa.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "दिलिप कुमार महरा",
-              "party": "बहुजन एकता पार्टी नेपाल(एकल चुनाव चिन्ह)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/dilip-kumar-mahara_62cWZasrF1.jpg",
               "party_flag": ""
             },
             {
@@ -18672,16 +18672,6 @@
               "party_flag": ""
             },
             {
-              "name": "किशोरी यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/kishori-yadav_Elz84plfqy.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "रुपेश कुमार मण्डल",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -18689,6 +18679,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/rupesh-kumar-mandal_4CtJMG0ooh.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "किशोरी यादव",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/kishori-yadav_Elz84plfqy.jpg",
               "party_flag": ""
             },
             {
@@ -18722,6 +18722,36 @@
               "party_flag": ""
             },
             {
+              "name": "आनिल साह",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/anil-sah_7dRTCIvt5B.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रमेश कुमार साह",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramesh-kumar-sah_ITHkC7OjGm.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "सन्तोष महतो",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/santosh-mahato_NTt4wt1O7Y.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "उमेश कुमार राम",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -18739,36 +18769,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/nathuniya-sada_3YbsB7GMnb.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "रमेश कुमार साह",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramesh-kumar-sah_ITHkC7OjGm.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "धनवीर कापैर केवट",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/dhanbir-kapair-kewat_PJj45H4uxW.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "सन्तोष महतो",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/santosh-mahato_NTt4wt1O7Y.jpg",
               "party_flag": ""
             },
             {
@@ -18792,13 +18792,13 @@
               "party_flag": ""
             },
             {
-              "name": "आनिल साह",
+              "name": "धनवीर कापैर केवट",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/anil-sah_7dRTCIvt5B.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/dhanbir-kapair-kewat_PJj45H4uxW.jpg",
               "party_flag": ""
             },
             {
@@ -18832,16 +18832,6 @@
               "party_flag": ""
             },
             {
-              "name": "केदार विश्‍वकर्मा",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/kedar-bishwakarma_E0lvB0bEHH.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "विन्देश्वर महतो",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -18849,6 +18839,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bindeshwar-mahato_RftkgwMFRv.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "केदार विश्‍वकर्मा",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/kedar-bishwakarma_E0lvB0bEHH.jpg",
               "party_flag": ""
             },
             {
@@ -18891,7 +18891,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.002338+05:45",
+          "scraped_at": "2026-03-07T14:05:44.337117+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -19153,7 +19153,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -19807,13 +19807,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:44.039067+05:45"
+              "scraped_at": "2026-03-07T14:05:44.405081+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.434266+05:45",
+          "scraped_at": "2026-03-07T14:05:44.751098+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -20005,7 +20005,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -20479,13 +20479,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:44.535531+05:45"
+              "scraped_at": "2026-03-07T14:05:44.852288+05:45"
             }
           ]
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -20959,13 +20959,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:44.503017+05:45"
+              "scraped_at": "2026-03-07T14:05:44.787018+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.401745+05:45",
+          "scraped_at": "2026-03-07T14:05:43.758513+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -21207,7 +21207,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.416390+05:45",
+          "scraped_at": "2026-03-07T14:05:43.819076+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -21459,7 +21459,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.086083+05:45",
+          "scraped_at": "2026-03-07T14:05:43.526155+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -21801,7 +21801,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -22395,13 +22395,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:43.506154+05:45"
+              "scraped_at": "2026-03-07T14:05:43.899350+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.017244+05:45",
+          "scraped_at": "2026-03-07T14:05:44.303551+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -22663,7 +22663,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.564567+05:45",
+          "scraped_at": "2026-03-07T14:05:43.858911+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -22955,7 +22955,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.522242+05:45",
+          "scraped_at": "2026-03-07T14:05:43.929304+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -23187,7 +23187,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -23761,13 +23761,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:43.730815+05:45"
+              "scraped_at": "2026-03-07T14:05:43.972532+05:45"
             }
           ]
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -24281,13 +24281,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:43.840078+05:45"
+              "scraped_at": "2026-03-07T14:05:44.071816+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.662656+05:45",
+          "scraped_at": "2026-03-07T14:05:44.142882+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -24499,7 +24499,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.779281+05:45",
+          "scraped_at": "2026-03-07T14:05:44.185119+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -24781,7 +24781,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25235,13 +25235,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:43.846267+05:45"
+              "scraped_at": "2026-03-07T14:05:44.213424+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.153945+05:45",
+          "scraped_at": "2026-03-07T14:05:44.274369+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25493,7 +25493,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.270310+05:45",
+          "scraped_at": "2026-03-07T14:05:44.494525+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25685,7 +25685,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.229164+05:45",
+          "scraped_at": "2026-03-07T14:05:44.682762+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25824,16 +25824,6 @@
               "party_flag": ""
             },
             {
-              "name": "डिल्लीप्रसाद न्यौपाने",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/dilliprasad-neupane_iZZDLms2fn.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "राजन थापा",
               "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
               "votes": 0,
@@ -25841,6 +25831,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/rajan-thapa_dIwqDawoMQ.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "डिल्लीप्रसाद न्यौपाने",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/dilliprasad-neupane_iZZDLms2fn.jpg",
               "party_flag": ""
             },
             {
@@ -25937,7 +25937,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.005650+05:45",
+          "scraped_at": "2026-03-07T14:05:44.371321+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26229,7 +26229,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.151420+05:45",
+          "scraped_at": "2026-03-07T14:05:44.438948+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26471,7 +26471,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.143061+05:45",
+          "scraped_at": "2026-03-07T14:05:44.467275+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26683,7 +26683,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.587149+05:45",
+          "scraped_at": "2026-03-07T14:05:44.684806+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26925,7 +26925,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.422729+05:45",
+          "scraped_at": "2026-03-07T14:05:44.735221+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27147,7 +27147,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.317953+05:45",
+          "scraped_at": "2026-03-07T14:05:43.802410+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27339,7 +27339,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.504373+05:45",
+          "scraped_at": "2026-03-07T14:05:44.092897+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27471,7 +27471,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.060209+05:45",
+          "scraped_at": "2026-03-07T14:05:43.459083+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27653,7 +27653,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.282481+05:45",
+          "scraped_at": "2026-03-07T14:05:43.606427+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27785,7 +27785,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.595626+05:45",
+          "scraped_at": "2026-03-07T14:05:43.729286+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27917,7 +27917,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:43.177552+05:45",
+          "scraped_at": "2026-03-07T14:05:43.709425+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -28089,7 +28089,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.639965+05:45",
+          "scraped_at": "2026-03-07T14:05:44.571372+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -28281,7 +28281,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.379408+05:45",
+          "scraped_at": "2026-03-07T14:05:44.629811+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -28479,7 +28479,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.145723+05:45",
+          "scraped_at": "2026-03-07T14:05:45.493649+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -28601,7 +28601,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.238656+05:45",
+          "scraped_at": "2026-03-07T14:05:45.871653+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -28733,7 +28733,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.526475+05:45",
+          "scraped_at": "2026-03-07T14:05:44.872151+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -28865,7 +28865,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.653239+05:45",
+          "scraped_at": "2026-03-07T14:05:44.850035+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29007,7 +29007,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.802709+05:45",
+          "scraped_at": "2026-03-07T14:05:45.078478+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29189,7 +29189,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.827899+05:45",
+          "scraped_at": "2026-03-07T14:05:45.114514+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29371,7 +29371,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.880393+05:45",
+          "scraped_at": "2026-03-07T14:05:45.129671+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29533,7 +29533,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.722719+05:45",
+          "scraped_at": "2026-03-07T14:05:45.031824+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29665,7 +29665,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.570704+05:45",
+          "scraped_at": "2026-03-07T14:05:45.227255+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29707,7 +29707,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.048401+05:45",
+          "scraped_at": "2026-03-07T14:05:45.476164+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29799,7 +29799,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.113614+05:45",
+          "scraped_at": "2026-03-07T14:05:45.514134+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29931,7 +29931,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.996593+05:45",
+          "scraped_at": "2026-03-07T14:05:45.213404+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30103,7 +30103,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.023671+05:45",
+          "scraped_at": "2026-03-07T14:05:45.414691+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30295,7 +30295,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.218416+05:45",
+          "scraped_at": "2026-03-07T14:05:45.569960+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30477,7 +30477,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.948231+05:45",
+          "scraped_at": "2026-03-07T14:05:45.210293+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30609,7 +30609,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.925666+05:45",
+          "scraped_at": "2026-03-07T14:05:45.257642+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30741,7 +30741,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.891979+05:45",
+          "scraped_at": "2026-03-07T14:05:45.299882+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30913,7 +30913,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:44.979821+05:45",
+          "scraped_at": "2026-03-07T14:05:45.161661+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -31041,7 +31041,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.413639+05:45",
+          "scraped_at": "2026-03-07T14:05:45.731199+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31203,7 +31203,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.941960+05:45",
+          "scraped_at": "2026-03-07T14:05:46.441325+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31355,7 +31355,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.991781+05:45",
+          "scraped_at": "2026-03-07T14:05:46.487927+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31567,7 +31567,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.010595+05:45",
+          "scraped_at": "2026-03-07T14:05:46.574315+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31799,7 +31799,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.053795+05:45",
+          "scraped_at": "2026-03-07T14:05:46.514339+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32021,7 +32021,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.092545+05:45",
+          "scraped_at": "2026-03-07T14:05:46.539141+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32183,7 +32183,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.874965+05:45",
+          "scraped_at": "2026-03-07T14:05:46.254355+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32335,7 +32335,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.890455+05:45",
+          "scraped_at": "2026-03-07T14:05:46.333354+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32577,7 +32577,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.949629+05:45",
+          "scraped_at": "2026-03-07T14:05:46.420259+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32819,7 +32819,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.313269+05:45",
+          "scraped_at": "2026-03-07T14:05:45.598843+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33041,7 +33041,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.285430+05:45",
+          "scraped_at": "2026-03-07T14:05:45.645576+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33273,7 +33273,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.698169+05:45",
+          "scraped_at": "2026-03-07T14:05:46.368391+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33322,6 +33322,16 @@
               "party_flag": ""
             },
             {
+              "name": "नरेन्‍द्र प्रसाद चौधरी",
+              "party": "जनमत पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/narendra-prasad-chaudhary_laKp6uwkR0.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "विश्राम प्रसाद चौधरी",
               "party": "नेकपा (एमाले)",
               "votes": 0,
@@ -33339,16 +33349,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/shatrughan-bilas-singh-kurmi_c3NWHGeDoP.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "नरेन्‍द्र प्रसाद चौधरी",
-              "party": "जनमत पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/narendra-prasad-chaudhary_laKp6uwkR0.jpg",
               "party_flag": ""
             },
             {
@@ -33402,6 +33402,16 @@
               "party_flag": ""
             },
             {
+              "name": "कैसर जहा भन्ने सकिना मुस्लीम​",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/kaiser-jahan-was-a-muslim-woman_4fgB3QPcrU.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "अब्दुल्लाह मुसलमान",
               "party": "राष्ट्रिय जनमत पार्टी",
               "votes": 0,
@@ -33419,16 +33429,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/manoj-kumar-shukla_IfjvZEMDEI.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "कैसर जहा भन्ने सकिना मुस्लीम​",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/kaiser-jahan-was-a-muslim-woman_4fgB3QPcrU.jpg",
               "party_flag": ""
             },
             {
@@ -33532,16 +33532,6 @@
               "party_flag": ""
             },
             {
-              "name": "धर्मेन्दर पासी",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/dharmendra-pasi_KVJCUZXiax.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "केशर बहादुर सूर्यवंशी",
               "party": "मंगोल नेशनल अर्गनाइजेसन",
               "votes": 0,
@@ -33552,13 +33542,13 @@
               "party_flag": ""
             },
             {
-              "name": "नुमा बि.क",
-              "party": "राष्ट्रिय जनमुक्ति पार्टी",
+              "name": "धर्मेन्दर पासी",
+              "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/numa-bk_WBeuetFkII.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/dharmendra-pasi_KVJCUZXiax.jpg",
               "party_flag": ""
             },
             {
@@ -33569,6 +33559,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/chandra-kumar-badi_AUsNtLwceP.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "नुमा बि.क",
+              "party": "राष्ट्रिय जनमुक्ति पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/numa-bk_WBeuetFkII.jpg",
               "party_flag": ""
             },
             {
@@ -33625,7 +33625,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.653923+05:45",
+          "scraped_at": "2026-03-07T14:05:46.115531+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33917,7 +33917,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.740624+05:45",
+          "scraped_at": "2026-03-07T14:05:46.135549+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -34289,7 +34289,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.457915+05:45",
+          "scraped_at": "2026-03-07T14:05:46.607826+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -34561,7 +34561,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.172353+05:45",
+          "scraped_at": "2026-03-07T14:05:47.018999+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -34863,7 +34863,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.361576+05:45",
+          "scraped_at": "2026-03-07T14:05:45.635330+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35005,7 +35005,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.377535+05:45",
+          "scraped_at": "2026-03-07T14:05:45.668113+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35177,7 +35177,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.784556+05:45",
+          "scraped_at": "2026-03-07T14:05:46.298429+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35329,7 +35329,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.802370+05:45",
+          "scraped_at": "2026-03-07T14:05:46.194628+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35441,7 +35441,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35675,13 +35675,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:45.829895+05:45"
+              "scraped_at": "2026-03-07T14:05:46.062602+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.428448+05:45",
+          "scraped_at": "2026-03-07T14:05:45.841368+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -36003,7 +36003,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.515238+05:45",
+          "scraped_at": "2026-03-07T14:05:45.962086+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -36405,7 +36405,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.498747+05:45",
+          "scraped_at": "2026-03-07T14:05:45.912826+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -36777,7 +36777,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.591468+05:45",
+          "scraped_at": "2026-03-07T14:05:46.041970+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -37009,7 +37009,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:45.624013+05:45",
+          "scraped_at": "2026-03-07T14:05:46.031439+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -37297,7 +37297,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.394534+05:45",
+          "scraped_at": "2026-03-07T14:05:46.967266+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37409,7 +37409,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.477836+05:45",
+          "scraped_at": "2026-03-07T14:05:46.953999+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37531,7 +37531,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.364692+05:45",
+          "scraped_at": "2026-03-07T14:05:46.682414+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37633,7 +37633,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.290098+05:45",
+          "scraped_at": "2026-03-07T14:05:46.861975+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37715,7 +37715,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.436167+05:45",
+          "scraped_at": "2026-03-07T14:05:46.930496+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37837,7 +37837,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.265985+05:45",
+          "scraped_at": "2026-03-07T14:05:46.774504+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37949,7 +37949,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.360379+05:45",
+          "scraped_at": "2026-03-07T14:05:46.881132+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38061,7 +38061,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.244958+05:45",
+          "scraped_at": "2026-03-07T14:05:46.789033+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38143,7 +38143,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.566539+05:45",
+          "scraped_at": "2026-03-07T14:05:47.573950+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38275,7 +38275,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.192555+05:45",
+          "scraped_at": "2026-03-07T14:05:46.661657+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38427,7 +38427,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.800532+05:45",
+          "scraped_at": "2026-03-07T14:05:47.026556+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38569,7 +38569,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.590278+05:45",
+          "scraped_at": "2026-03-07T14:05:47.048096+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38757,7 +38757,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.510555+05:45",
+          "scraped_at": "2026-03-07T14:05:47.213420+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -38849,7 +38849,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.713359+05:45",
+          "scraped_at": "2026-03-07T14:05:47.257204+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -38951,7 +38951,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:47.009270+05:45",
+          "scraped_at": "2026-03-07T14:05:47.634796+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39073,7 +39073,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.692640+05:45",
+          "scraped_at": "2026-03-07T14:05:47.345844+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39155,7 +39155,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.656679+05:45",
+          "scraped_at": "2026-03-07T14:05:47.103283+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39247,7 +39247,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T14:03:38.043668+05:45",
+          "scraped_at": "2026-03-07T14:05:39.242682+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39521,13 +39521,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T14:03:46.990393+05:45"
+              "scraped_at": "2026-03-07T14:05:47.717823+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.947472+05:45",
+          "scraped_at": "2026-03-07T14:05:47.519216+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39626,16 +39626,6 @@
               "party_flag": ""
             },
             {
-              "name": "गगन ठगुन्ना",
-              "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/gagan-thagunna_TquXTey0lk.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "रमेश कुमार रावल",
               "party": "नेपाल मजदुर किसान पार्टी",
               "votes": 0,
@@ -39644,12 +39634,22 @@
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ramesh-kumar-rawal_Egw4r51mnW.jpg",
               "party_flag": ""
+            },
+            {
+              "name": "गगन ठगुन्ना",
+              "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/gagan-thagunna_TquXTey0lk.jpg",
+              "party_flag": ""
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.817497+05:45",
+          "scraped_at": "2026-03-07T14:05:47.323935+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39751,7 +39751,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.749281+05:45",
+          "scraped_at": "2026-03-07T14:05:47.363534+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39943,7 +39943,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:47.078508+05:45",
+          "scraped_at": "2026-03-07T14:05:47.398501+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40105,7 +40105,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.772009+05:45",
+          "scraped_at": "2026-03-07T14:05:47.446829+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40227,7 +40227,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.933988+05:45",
+          "scraped_at": "2026-03-07T14:05:47.445689+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40399,7 +40399,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:46.851760+05:45",
+          "scraped_at": "2026-03-07T14:05:47.476132+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40561,7 +40561,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:47.375283+05:45",
+          "scraped_at": "2026-03-07T14:05:47.698411+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40763,7 +40763,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:47.057492+05:45",
+          "scraped_at": "2026-03-07T14:05:47.739755+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40965,7 +40965,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T14:03:47.100892+05:45",
+          "scraped_at": "2026-03-07T14:05:47.761129+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
