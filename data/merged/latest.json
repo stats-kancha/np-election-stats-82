@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-03-07T09:50:32.834556+05:45",
+  "scraped_at": "2026-03-07T09:52:33.534955+05:45",
   "sources": [
     "ekantipur",
     "ratopati",
@@ -565,7 +565,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.511592+05:45",
+          "scraped_at": "2026-03-07T09:51:35.067688+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -697,7 +697,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.609149+05:45",
+          "scraped_at": "2026-03-07T09:51:35.129430+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -756,6 +756,16 @@
               "party_flag": ""
             },
             {
+              "name": "लाक्‍पा तामाङ्ग",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/lakpa-tamang_2ww8eKKGrE.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "आइत राज लिम्‍वु",
               "party": "जनता समाजवादी पार्टी, नेपाल",
               "votes": 0,
@@ -773,16 +783,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bibhatsu-thapa_2oeVLnMMlA.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "लाक्‍पा तामाङ्ग",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/lakpa-tamang_2ww8eKKGrE.jpg",
               "party_flag": ""
             },
             {
@@ -879,7 +879,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.406733+05:45",
+          "scraped_at": "2026-03-07T09:51:34.745330+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1021,7 +1021,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.350693+05:45",
+          "scraped_at": "2026-03-07T09:51:34.603920+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1173,7 +1173,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.479980+05:45",
+          "scraped_at": "2026-03-07T09:51:35.089077+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1335,7 +1335,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.348869+05:45",
+          "scraped_at": "2026-03-07T09:51:34.837169+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1484,6 +1484,16 @@
               "party_flag": ""
             },
             {
+              "name": "मान बहादुर पुलामी मगर",
+              "party": "नेपाल जनमुक्ति पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/man-bahadur-pulami-magar_M2OePNMrlA.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "श्रीप्रसाद सिटौला",
               "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
               "votes": 0,
@@ -1504,16 +1514,6 @@
               "party_flag": ""
             },
             {
-              "name": "मान बहादुर पुलामी मगर",
-              "party": "नेपाल जनमुक्ति पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/man-bahadur-pulami-magar_M2OePNMrlA.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "रमेश कुमार कार्की",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -1527,7 +1527,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -1881,13 +1881,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:34.374496+05:45"
+              "scraped_at": "2026-03-07T09:51:34.766509+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.483082+05:45",
+          "scraped_at": "2026-03-07T09:51:34.769129+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2059,7 +2059,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2553,13 +2553,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:34.136388+05:45"
+              "scraped_at": "2026-03-07T09:51:34.847107+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.973077+05:45",
+          "scraped_at": "2026-03-07T09:51:35.563187+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2721,7 +2721,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.560979+05:45",
+          "scraped_at": "2026-03-07T09:51:35.176806+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -2903,7 +2903,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.703463+05:45",
+          "scraped_at": "2026-03-07T09:51:35.158055+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3085,7 +3085,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.901496+05:45",
+          "scraped_at": "2026-03-07T09:51:35.288526+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3277,7 +3277,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.730487+05:45",
+          "scraped_at": "2026-03-07T09:51:35.245293+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3479,7 +3479,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.793900+05:45",
+          "scraped_at": "2026-03-07T09:51:35.269454+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3711,7 +3711,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.633374+05:45",
+          "scraped_at": "2026-03-07T09:51:35.299296+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3893,7 +3893,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.070933+05:45",
+          "scraped_at": "2026-03-07T09:51:36.152435+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -3992,6 +3992,16 @@
               "party_flag": ""
             },
             {
+              "name": "नेत्र बहादुर नेम्वाङ",
+              "party": "जनता समाजवादी पार्टी(एकल चुनाव चिन्ह)",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/netra-bahadur-nembang_XSm8DbNpjo.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "शेर बहादुर खत्री",
               "party": "राष्ट्रिय जनमोर्चा",
               "votes": 0,
@@ -4009,16 +4019,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/sabina-prajapati_LbIblVW8kv.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "नेत्र बहादुर नेम्वाङ",
-              "party": "जनता समाजवादी पार्टी(एकल चुनाव चिन्ह)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/netra-bahadur-nembang_XSm8DbNpjo.jpg",
               "party_flag": ""
             },
             {
@@ -4055,7 +4055,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.294537+05:45",
+          "scraped_at": "2026-03-07T09:51:34.625047+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -4217,7 +4217,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.487532+05:45",
+          "scraped_at": "2026-03-07T09:51:34.664579+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -4389,7 +4389,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.929042+05:45",
+          "scraped_at": "2026-03-07T09:51:35.624481+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -4521,7 +4521,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5055,13 +5055,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:34.825858+05:45"
+              "scraped_at": "2026-03-07T09:51:35.337445+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.865602+05:45",
+          "scraped_at": "2026-03-07T09:51:35.468568+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5353,7 +5353,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.007482+05:45",
+          "scraped_at": "2026-03-07T09:51:35.915588+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5595,7 +5595,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.024866+05:45",
+          "scraped_at": "2026-03-07T09:51:35.598526+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -5937,7 +5937,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.156860+05:45",
+          "scraped_at": "2026-03-07T09:51:34.669681+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6079,7 +6079,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:34.248795+05:45",
+          "scraped_at": "2026-03-07T09:51:34.877173+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6211,7 +6211,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.086756+05:45",
+          "scraped_at": "2026-03-07T09:51:35.662988+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6403,7 +6403,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.108905+05:45",
+          "scraped_at": "2026-03-07T09:51:35.676170+05:45",
           "province": {
             "id": 1,
             "name": "Koshi"
@@ -6551,7 +6551,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.237001+05:45",
+          "scraped_at": "2026-03-07T09:51:36.937030+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -6620,16 +6620,6 @@
               "party_flag": ""
             },
             {
-              "name": "जय किशोर पाण्डेय",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/jai-kishor-pandey_95aobjW38U.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "लक्ष्मी प्रसाद सा कलवार",
               "party": "राष्ट्रिय प्रजातन्त्र पार्टी",
               "votes": 0,
@@ -6640,13 +6630,13 @@
               "party_flag": ""
             },
             {
-              "name": "कमरुल्लाह अंसारी",
-              "party": "जनमत पार्टी",
+              "name": "जय किशोर पाण्डेय",
+              "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamrullah-ansari_1os0T5grJQ.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/jai-kishor-pandey_95aobjW38U.jpg",
               "party_flag": ""
             },
             {
@@ -6657,6 +6647,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bhulavan-kumar-paswan_dewruKgllD.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "कमरुल्लाह अंसारी",
+              "party": "जनमत पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamrullah-ansari_1os0T5grJQ.jpg",
               "party_flag": ""
             },
             {
@@ -6720,16 +6720,6 @@
               "party_flag": ""
             },
             {
-              "name": "हमिद मंसुरी",
-              "party": "प्रगतिशील लोकतान्त्रिक पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/hamid-mansuri_mhPOfQaU9C.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "बिदुर खरेल",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -6737,6 +6727,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bidur-kharel_7G1TPczcRL.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "हमिद मंसुरी",
+              "party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/hamid-mansuri_mhPOfQaU9C.jpg",
               "party_flag": ""
             },
             {
@@ -6763,7 +6763,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.465628+05:45",
+          "scraped_at": "2026-03-07T09:51:36.854463+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -7065,7 +7065,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.451553+05:45",
+          "scraped_at": "2026-03-07T09:51:36.911704+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -7317,7 +7317,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.471468+05:45",
+          "scraped_at": "2026-03-07T09:51:36.985252+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -7699,7 +7699,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.515873+05:45",
+          "scraped_at": "2026-03-07T09:51:35.877332+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -8131,7 +8131,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.453183+05:45",
+          "scraped_at": "2026-03-07T09:51:36.132282+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -8150,16 +8150,6 @@
               "party_flag": ""
             },
             {
-              "name": "राम चन्द्र झा",
-              "party": "नेपाली कम्युनिष्ट पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-chandra-jha_DPl5w2yysC.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "दिनेश प्रसाद  यादव परसैला",
               "party": "नेपाली कांग्रेस",
               "votes": 0,
@@ -8167,6 +8157,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/dinesh-prasad-yadav-parsaila_2qSu53aHcl.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "राम चन्द्र झा",
+              "party": "नेपाली कम्युनिष्ट पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-chandra-jha_DPl5w2yysC.jpg",
               "party_flag": ""
             },
             {
@@ -8220,16 +8220,6 @@
               "party_flag": ""
             },
             {
-              "name": "महेश्वर मंडल",
-              "party": "राष्ट्रिय प्रजातन्त्र पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/maheshwar-mandal_WM15NvER4U.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "श्‍याम सुन्दर पजियार",
               "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
               "votes": 0,
@@ -8237,6 +8227,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/shyam-sundar-pajiyar_4gOEApblh0.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "महेश्वर मंडल",
+              "party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/maheshwar-mandal_WM15NvER4U.jpg",
               "party_flag": ""
             },
             {
@@ -8290,23 +8290,13 @@
               "party_flag": ""
             },
             {
-              "name": "ठकना पासमान",
+              "name": "अनिल कुमार यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ankle-bone_3eKGaOcXxV.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "सागर यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sagar-yadav_SFwNcw2A9K.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/anil-kumar-yadav_Oeq1LqwiVM.jpg",
               "party_flag": ""
             },
             {
@@ -8320,13 +8310,23 @@
               "party_flag": ""
             },
             {
-              "name": "अनिल कुमार यादव",
+              "name": "सागर यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/anil-kumar-yadav_Oeq1LqwiVM.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sagar-yadav_SFwNcw2A9K.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "ठकना पासमान",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ankle-bone_3eKGaOcXxV.jpg",
               "party_flag": ""
             },
             {
@@ -8337,6 +8337,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ajay-kumar-marik_z1hcgEHysK.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "साधु शरण मोरवैता",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sadhu-sharan-moravaita_rG8hxMCfvu.jpg",
               "party_flag": ""
             },
             {
@@ -8357,16 +8367,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bhola-yadav_wqtim8y9Iy.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "साधु शरण मोरवैता",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sadhu-sharan-moravaita_rG8hxMCfvu.jpg",
               "party_flag": ""
             },
             {
@@ -8420,6 +8420,16 @@
               "party_flag": ""
             },
             {
+              "name": "रामसागर यादब",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramsagar-yadav_hqu1WDbAFM.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "राम प्रकाश यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -8450,16 +8460,6 @@
               "party_flag": ""
             },
             {
-              "name": "रामसागर यादब",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramsagar-yadav_hqu1WDbAFM.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "राम सुभेष मण्डल खत्वे",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -8483,7 +8483,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.623317+05:45",
+          "scraped_at": "2026-03-07T09:51:36.245300+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -8945,7 +8945,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.625872+05:45",
+          "scraped_at": "2026-03-07T09:51:36.377563+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -9327,7 +9327,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.653934+05:45",
+          "scraped_at": "2026-03-07T09:51:36.285689+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -9589,7 +9589,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.705796+05:45",
+          "scraped_at": "2026-03-07T09:51:36.339317+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -9971,7 +9971,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.929853+05:45",
+          "scraped_at": "2026-03-07T09:51:36.470132+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -10393,7 +10393,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.828533+05:45",
+          "scraped_at": "2026-03-07T09:51:36.466389+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -10542,6 +10542,16 @@
               "party_flag": ""
             },
             {
+              "name": "रमिना खातुन",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramina-khatun_QhKvCWk69A.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "राज नारायण यादब",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -10562,26 +10572,6 @@
               "party_flag": ""
             },
             {
-              "name": "रमिना खातुन",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramina-khatun_QhKvCWk69A.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "सुकेश कुमार यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sukesh-kumar-yadav_CslA97euON.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "अजय कुमार यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -10589,16 +10579,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ajay-kumar-yadav_86EKfJwZgr.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "गणेश ठाकुर लोहार",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ganesh-thakur-lohar_4o4F4rXfjY.jpg",
               "party_flag": ""
             },
             {
@@ -10612,6 +10592,26 @@
               "party_flag": ""
             },
             {
+              "name": "गणेश ठाकुर लोहार",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ganesh-thakur-lohar_4o4F4rXfjY.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "सुकेश कुमार यादव",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sukesh-kumar-yadav_CslA97euON.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "कमलेश कुमार भण्डारी",
               "party": "राष्ट्रिय जनता पार्टी नेपाल",
               "votes": 0,
@@ -10619,26 +10619,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/kamlesh-kumar-bhandari_OF6maGPziW.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "संजय यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sanjay-yadav_qt43xnDGwO.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "महिन्दर पासमान",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/mahindar-paswan_lyhUP2ThRe.jpg",
               "party_flag": ""
             },
             {
@@ -10652,6 +10632,16 @@
               "party_flag": ""
             },
             {
+              "name": "शान्ति देवी",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/shanti-devi_xTTJ93kP7d.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "रिजबाना खातुन",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -10662,13 +10652,23 @@
               "party_flag": ""
             },
             {
-              "name": "शान्ति देवी",
+              "name": "महिन्दर पासमान",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/shanti-devi_xTTJ93kP7d.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/mahindar-paswan_lyhUP2ThRe.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "संजय यादव",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sanjay-yadav_qt43xnDGwO.jpg",
               "party_flag": ""
             },
             {
@@ -10682,16 +10682,6 @@
               "party_flag": ""
             },
             {
-              "name": "दिपेन्‍द्र कुमार यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/dipendra-kumar-yadav_5ERVspMJSW.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "हरदेब महरा चमार",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -10699,26 +10689,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/hardev-mahara-chamar_ebUgl0RMua.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "सत्‍यनारायण महरा",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/satyanarayan-mahara_ztHVumJmFo.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "सिंहेश्वर खत्बे",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/singheshwar-khatbe_XhCVdDodY1.jpg",
               "party_flag": ""
             },
             {
@@ -10732,6 +10702,26 @@
               "party_flag": ""
             },
             {
+              "name": "सिंहेश्वर खत्बे",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/singheshwar-khatbe_XhCVdDodY1.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "सत्‍यनारायण महरा",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/satyanarayan-mahara_ztHVumJmFo.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "मनोज कुमार यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -10739,6 +10729,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/manoj-kumar-yadav_a3AC6akCqU.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "दिपेन्‍द्र कुमार यादव",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/dipendra-kumar-yadav_5ERVspMJSW.jpg",
               "party_flag": ""
             },
             {
@@ -10765,7 +10765,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.395169+05:45",
+          "scraped_at": "2026-03-07T09:51:37.074089+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11077,7 +11077,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.342751+05:45",
+          "scraped_at": "2026-03-07T09:51:37.036407+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11399,7 +11399,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.300221+05:45",
+          "scraped_at": "2026-03-07T09:51:37.140106+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11641,7 +11641,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.503530+05:45",
+          "scraped_at": "2026-03-07T09:51:37.078892+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -11883,7 +11883,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -12677,13 +12677,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:35.947807+05:45"
+              "scraped_at": "2026-03-07T09:51:36.632539+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.866475+05:45",
+          "scraped_at": "2026-03-07T09:51:36.684509+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -12955,7 +12955,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.061065+05:45",
+          "scraped_at": "2026-03-07T09:51:36.750113+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -13367,7 +13367,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.078944+05:45",
+          "scraped_at": "2026-03-07T09:51:36.799250+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -13546,16 +13546,6 @@
               "party_flag": ""
             },
             {
-              "name": "दावा सिं रुम्बा",
-              "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/dawa-singh-rumba_6HdCudkGPc.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "गौतम कुमार साह",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -13563,6 +13553,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/gautam-kumar-sah_b2CIratKTt.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "दावा सिं रुम्बा",
+              "party": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/dawa-singh-rumba_6HdCudkGPc.jpg",
               "party_flag": ""
             },
             {
@@ -13749,7 +13749,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.174382+05:45",
+          "scraped_at": "2026-03-07T09:51:35.714447+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -13971,7 +13971,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -14665,13 +14665,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:35.207188+05:45"
+              "scraped_at": "2026-03-07T09:51:35.756379+05:45"
             }
           ]
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -15045,16 +15045,6 @@
                   "party_flag": ""
                 },
                 {
-                  "name": "हरी नारायण पासमान",
-                  "party": "स्वतन्त्र",
-                  "votes": 0,
-                  "is_winner": false,
-                  "is_leading": false,
-                  "margin": 0,
-                  "image": "https://npcdn.ratopati.com/election/candidates/2082/hari-narayan-pasman_tQT1uP3qat.jpg",
-                  "party_flag": ""
-                },
-                {
                   "name": "कौशल कुमारी चौधरी",
                   "party": "स्वतन्त्र",
                   "votes": 0,
@@ -15062,6 +15052,16 @@
                   "is_leading": false,
                   "margin": 0,
                   "image": "https://npcdn.ratopati.com/election/candidates/2082/kaushal-kumari-chaudhary_CLz2a0k55D.jpg",
+                  "party_flag": ""
+                },
+                {
+                  "name": "हरी नारायण पासमान",
+                  "party": "स्वतन्त्र",
+                  "votes": 0,
+                  "is_winner": false,
+                  "is_leading": false,
+                  "margin": 0,
+                  "image": "https://npcdn.ratopati.com/election/candidates/2082/hari-narayan-pasman_tQT1uP3qat.jpg",
                   "party_flag": ""
                 },
                 {
@@ -15125,13 +15125,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:35.263391+05:45"
+              "scraped_at": "2026-03-07T09:51:35.809832+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.295454+05:45",
+          "scraped_at": "2026-03-07T09:51:35.945556+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -15393,7 +15393,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.921463+05:45",
+          "scraped_at": "2026-03-07T09:51:36.507555+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -15472,13 +15472,13 @@
               "party_flag": ""
             },
             {
-              "name": "राजा राम पासवान",
-              "party": "बहुजन एकता पार्टी नेपाल(एकल चुनाव चिन्ह)",
+              "name": "सुमन हरि अधिकारी",
+              "party": "श्रम संस्कृति पार्टी",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/king-ram-paswan_ZFIjb1zldW.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/suman-hari-adhikari_R0txhaPMD7.jpg",
               "party_flag": ""
             },
             {
@@ -15492,13 +15492,13 @@
               "party_flag": ""
             },
             {
-              "name": "सुमन हरि अधिकारी",
-              "party": "श्रम संस्कृति पार्टी",
+              "name": "राजा राम पासवान",
+              "party": "बहुजन एकता पार्टी नेपाल(एकल चुनाव चिन्ह)",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/suman-hari-adhikari_R0txhaPMD7.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/king-ram-paswan_ZFIjb1zldW.jpg",
               "party_flag": ""
             },
             {
@@ -15552,16 +15552,6 @@
               "party_flag": ""
             },
             {
-              "name": "मो. अस्‍फाक",
-              "party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/md-asfak_mDjvyqZMQS.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "रमाकान्त कापर",
               "party": "नेपाल मजदुर किसान पार्टी",
               "votes": 0,
@@ -15569,6 +15559,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ramakant-kaper_0p3gafObiT.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "मो. अस्‍फाक",
+              "party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/md-asfak_mDjvyqZMQS.jpg",
               "party_flag": ""
             },
             {
@@ -15592,6 +15592,16 @@
               "party_flag": ""
             },
             {
+              "name": "अमृत लाल वोम्जन",
+              "party": "मंगोल नेशनल अर्गनाइजेसन",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/amrit-lal-womjan_S7zPoSDoHN.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "मोहन पासवान",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -15609,16 +15619,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/arun-kumar-mahato-sudee_DaU0qi3nAw.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "अमृत लाल वोम्जन",
-              "party": "मंगोल नेशनल अर्गनाइजेसन",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/amrit-lal-womjan_S7zPoSDoHN.jpg",
               "party_flag": ""
             },
             {
@@ -15685,7 +15685,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -16319,13 +16319,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:35.984336+05:45"
+              "scraped_at": "2026-03-07T09:51:36.574544+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.211091+05:45",
+          "scraped_at": "2026-03-07T09:51:36.541150+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -16677,7 +16677,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -17451,13 +17451,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:35.749937+05:45"
+              "scraped_at": "2026-03-07T09:51:36.682886+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.376902+05:45",
+          "scraped_at": "2026-03-07T09:51:35.998222+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -17486,16 +17486,6 @@
               "party_flag": ""
             },
             {
-              "name": "रामचन्द्र यादव",
-              "party": "नेपाली कम्युनिष्ट पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramchandra-yadav_TL7HXejBxd.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "राम सुन्दर चौधरी",
               "party": "नेपाली कांग्रेस",
               "votes": 0,
@@ -17503,6 +17493,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-sundar-chaudhary_aOBoEg2D8J.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रामचन्द्र यादव",
+              "party": "नेपाली कम्युनिष्ट पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramchandra-yadav_TL7HXejBxd.jpg",
               "party_flag": ""
             },
             {
@@ -17586,16 +17586,6 @@
               "party_flag": ""
             },
             {
-              "name": "सन्तोष सिलवाल",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/santosh-silwal_GrxWCRGCXp.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "डा जिवछ  ठाकुर",
               "party": "श्रम संस्कृति पार्टी",
               "votes": 0,
@@ -17603,6 +17593,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/dr-jivachh-thakur_9hYwUwp9bp.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "सन्तोष सिलवाल",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/santosh-silwal_GrxWCRGCXp.jpg",
               "party_flag": ""
             },
             {
@@ -17656,23 +17656,13 @@
               "party_flag": ""
             },
             {
-              "name": "सुलोचना कुश्मी",
+              "name": "भोला पासमान",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sulochana-kushmi_P2vpnsyR44.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "राम चन्दर यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-chander-yadav_Nb1gqc3lfd.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhola-paswan_g8pr0dN7QT.jpg",
               "party_flag": ""
             },
             {
@@ -17686,23 +17676,23 @@
               "party_flag": ""
             },
             {
-              "name": "भोला पासमान",
+              "name": "आन्नद कुमार यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhola-paswan_g8pr0dN7QT.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/anand-kumar-yadav_t8ybz2KKxt.jpg",
               "party_flag": ""
             },
             {
-              "name": "अशिष लाल दास",
+              "name": "सुलोचना कुश्मी",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ashish-lal-das_fzPRsoOx8i.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sulochana-kushmi_P2vpnsyR44.jpg",
               "party_flag": ""
             },
             {
@@ -17716,6 +17706,36 @@
               "party_flag": ""
             },
             {
+              "name": "राम चन्दर यादव",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-chander-yadav_Nb1gqc3lfd.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "वालेश्वर दास तत्मा",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/waleshwar-das-tamta_kibgrURsbe.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "अशिष लाल दास",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ashish-lal-das_fzPRsoOx8i.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "दिनेश पासमान",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -17723,26 +17743,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/dinesh-pasman_SWAmBGw2we.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "आन्नद कुमार यादव",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/anand-kumar-yadav_t8ybz2KKxt.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "जुगाई मंडल",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/jugai-mandala_CPe7ynneVw.jpg",
               "party_flag": ""
             },
             {
@@ -17756,13 +17756,13 @@
               "party_flag": ""
             },
             {
-              "name": "वालेश्वर दास तत्मा",
+              "name": "जुगाई मंडल",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/waleshwar-das-tamta_kibgrURsbe.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/jugai-mandala_CPe7ynneVw.jpg",
               "party_flag": ""
             },
             {
@@ -17789,7 +17789,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.341078+05:45",
+          "scraped_at": "2026-03-07T09:51:36.034054+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -18091,7 +18091,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.417601+05:45",
+          "scraped_at": "2026-03-07T09:51:36.202310+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -18513,7 +18513,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:35.534949+05:45",
+          "scraped_at": "2026-03-07T09:51:36.076299+05:45",
           "province": {
             "id": 2,
             "name": "Madhesh"
@@ -18891,7 +18891,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.300580+05:45",
+          "scraped_at": "2026-03-07T09:51:38.031479+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -19153,7 +19153,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -19807,13 +19807,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:37.372924+05:45"
+              "scraped_at": "2026-03-07T09:51:38.112431+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.732583+05:45",
+          "scraped_at": "2026-03-07T09:51:38.473360+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -19972,16 +19972,6 @@
               "party_flag": ""
             },
             {
-              "name": "दुर्गा दत्त अर्याल",
-              "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/durga-datta-aryal_gLRxLlEV55.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "अजय ठाकुर हजाम",
               "party": "जनता समाजवादी पार्टी, नेपाल",
               "votes": 0,
@@ -19989,6 +19979,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ajay-thakur-barber_xltLxVFZmI.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "दुर्गा दत्त अर्याल",
+              "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/durga-datta-aryal_gLRxLlEV55.jpg",
               "party_flag": ""
             },
             {
@@ -20005,7 +20005,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -20479,13 +20479,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:37.670869+05:45"
+              "scraped_at": "2026-03-07T09:51:38.509772+05:45"
             }
           ]
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -20959,13 +20959,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:37.791710+05:45"
+              "scraped_at": "2026-03-07T09:51:38.582930+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.728778+05:45",
+          "scraped_at": "2026-03-07T09:51:37.227807+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -21207,7 +21207,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.823964+05:45",
+          "scraped_at": "2026-03-07T09:51:37.447841+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -21236,16 +21236,6 @@
               "party_flag": ""
             },
             {
-              "name": "राम बहादुर भण्डारी",
-              "party": "नेपाली कम्युनिष्ट पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-bahadur-bhandari_2whUJsGT3b.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "धन बहादुर घले",
               "party": "नेकपा (एमाले)",
               "votes": 0,
@@ -21253,6 +21243,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/dhan-bahadur-ghale_gBDJ1bOmPy.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "राम बहादुर भण्डारी",
+              "party": "नेपाली कम्युनिष्ट पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-bahadur-bhandari_2whUJsGT3b.jpg",
               "party_flag": ""
             },
             {
@@ -21346,16 +21346,6 @@
               "party_flag": ""
             },
             {
-              "name": "रुद्र बहादुर गेलाङ मगर",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/rudra-bahadur-gelang-magar_BuAlIHQlfL.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "प्रिया भट्ट",
               "party": "नेपाल मजदुर किसान पार्टी",
               "votes": 0,
@@ -21363,6 +21353,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/priya-bhatt_inCYsTxUej.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रुद्र बहादुर गेलाङ मगर",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/rudra-bahadur-gelang-magar_BuAlIHQlfL.jpg",
               "party_flag": ""
             },
             {
@@ -21459,7 +21459,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.589746+05:45",
+          "scraped_at": "2026-03-07T09:51:37.175740+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -21518,16 +21518,6 @@
               "party_flag": ""
             },
             {
-              "name": "प्रविण कुमार थोकर/तामाङ्ग",
-              "party": "राष्ट्रिय प्रजातन्त्र पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/pravin-kumar-thokartamang_VzkTjYpHZo.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "हेप बहादुर थामी",
               "party": "श्रम संस्कृति पार्टी",
               "votes": 0,
@@ -21535,6 +21525,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/hep-bahadur-thami_SR9XO6eqJT.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "प्रविण कुमार थोकर/तामाङ्ग",
+              "party": "राष्ट्रिय प्रजातन्त्र पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/pravin-kumar-thokartamang_VzkTjYpHZo.jpg",
               "party_flag": ""
             },
             {
@@ -21648,6 +21648,46 @@
               "party_flag": ""
             },
             {
+              "name": "सर्मीला  फुयाल चौलागाई",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sarmila-phuyal-chaulagai_oLcR9VLckh.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "विमला  श्रेष्ठ",
+              "party": "नेपाल मजदुर किसान पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bimala-shrestha_I0GLDPnPkZ.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रमिला सार्की",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramila-sarki_sGEygPR5nO.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "सन्देश कोइराला",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sandesh-koirala_RISB7wl7VG.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "सुदिप  खड्‍का",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -21668,63 +21708,13 @@
               "party_flag": ""
             },
             {
-              "name": "सर्मीला  फुयाल चौलागाई",
+              "name": "महेन्द्र खड्का",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sarmila-phuyal-chaulagai_oLcR9VLckh.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "सन्देश कोइराला",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sandesh-koirala_RISB7wl7VG.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "रिम बहादुर ओली",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/rim-bahadur-oli_Rs8wej2GCd.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "पुस्कर कुमार अधिकारी",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/pushkar-kumar-adhikari_ImIOvTVIxd.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "प्रकाश दहाल",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/prakash-dahal_skGyQawy3b.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "विमला  श्रेष्ठ",
-              "party": "नेपाल मजदुर किसान पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bimala-shrestha_I0GLDPnPkZ.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/mahendra-khadka_Ea9dWLYPn6.jpg",
               "party_flag": ""
             },
             {
@@ -21738,23 +21728,43 @@
               "party_flag": ""
             },
             {
-              "name": "रमिला सार्की",
+              "name": "भरत  कुमार  श्रेष्ठ",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ramila-sarki_sGEygPR5nO.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bharat-kumar-shrestha_5Ji3HaxCrv.jpg",
               "party_flag": ""
             },
             {
-              "name": "महेन्द्र खड्का",
+              "name": "पुस्कर कुमार अधिकारी",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/mahendra-khadka_Ea9dWLYPn6.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/pushkar-kumar-adhikari_ImIOvTVIxd.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रिम बहादुर ओली",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/rim-bahadur-oli_Rs8wej2GCd.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "प्रकाश दहाल",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/prakash-dahal_skGyQawy3b.jpg",
               "party_flag": ""
             },
             {
@@ -21786,22 +21796,12 @@
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/look-dorje-sherpa_aPACA2wNG2.jpg",
               "party_flag": ""
-            },
-            {
-              "name": "भरत  कुमार  श्रेष्ठ",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bharat-kumar-shrestha_5Ji3HaxCrv.jpg",
-              "party_flag": ""
             }
           ]
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -22395,13 +22395,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:36.895363+05:45"
+              "scraped_at": "2026-03-07T09:51:37.552424+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.272117+05:45",
+          "scraped_at": "2026-03-07T09:51:37.937142+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -22663,7 +22663,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.980199+05:45",
+          "scraped_at": "2026-03-07T09:51:37.647135+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -22955,7 +22955,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.971191+05:45",
+          "scraped_at": "2026-03-07T09:51:37.693010+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -23187,7 +23187,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -23761,13 +23761,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:37.017415+05:45"
+              "scraped_at": "2026-03-07T09:51:37.711966+05:45"
             }
           ]
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -24281,13 +24281,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:37.056480+05:45"
+              "scraped_at": "2026-03-07T09:51:37.778638+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.179663+05:45",
+          "scraped_at": "2026-03-07T09:51:37.743608+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -24499,7 +24499,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.134208+05:45",
+          "scraped_at": "2026-03-07T09:51:37.845499+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -24781,7 +24781,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25235,13 +25235,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:37.147620+05:45"
+              "scraped_at": "2026-03-07T09:51:37.811846+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.239912+05:45",
+          "scraped_at": "2026-03-07T09:51:37.944266+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25493,7 +25493,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.513770+05:45",
+          "scraped_at": "2026-03-07T09:51:38.277200+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25582,16 +25582,6 @@
               "party_flag": ""
             },
             {
-              "name": "कमल बहादुर  लामा (तामाङ)",
-              "party": "मंगोल नेशनल अर्गनाइजेसन",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamal-bahadur-lama-tamang_sVvnxATX8C.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "रत्‍न लामा",
               "party": "संयुक्त नागरिक पार्टी",
               "votes": 0,
@@ -25599,6 +25589,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ratna-lama_syHNdjYIIk.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "कमल बहादुर  लामा (तामाङ)",
+              "party": "मंगोल नेशनल अर्गनाइजेसन",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamal-bahadur-lama-tamang_sVvnxATX8C.jpg",
               "party_flag": ""
             },
             {
@@ -25685,7 +25685,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.504974+05:45",
+          "scraped_at": "2026-03-07T09:51:38.442798+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -25814,6 +25814,16 @@
               "party_flag": ""
             },
             {
+              "name": "रकम लामा (तामाङ)",
+              "party": "जनता समाजवादी पार्टी, नेपाल",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/rakam-lama-tamang_iYYvRh2Bcm.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "उमेश तामाङ",
               "party": "मंगोल नेशनल अर्गनाइजेसन",
               "votes": 0,
@@ -25834,13 +25844,13 @@
               "party_flag": ""
             },
             {
-              "name": "रकम लामा (तामाङ)",
-              "party": "जनता समाजवादी पार्टी, नेपाल",
+              "name": "राजन थापा",
+              "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/rakam-lama-tamang_iYYvRh2Bcm.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/rajan-thapa_dIwqDawoMQ.jpg",
               "party_flag": ""
             },
             {
@@ -25851,16 +25861,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/sita-ram-mainali_AhzOPgG1IP.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "राजन थापा",
-              "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/rajan-thapa_dIwqDawoMQ.jpg",
               "party_flag": ""
             },
             {
@@ -25937,7 +25937,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.368253+05:45",
+          "scraped_at": "2026-03-07T09:51:38.252554+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26229,7 +26229,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.404197+05:45",
+          "scraped_at": "2026-03-07T09:51:38.217258+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26471,7 +26471,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.440063+05:45",
+          "scraped_at": "2026-03-07T09:51:38.044382+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26683,7 +26683,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.700224+05:45",
+          "scraped_at": "2026-03-07T09:51:38.376936+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -26925,7 +26925,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.624716+05:45",
+          "scraped_at": "2026-03-07T09:51:38.476204+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27147,7 +27147,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.796207+05:45",
+          "scraped_at": "2026-03-07T09:51:37.974067+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27339,7 +27339,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.926006+05:45",
+          "scraped_at": "2026-03-07T09:51:37.468060+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27471,7 +27471,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.567260+05:45",
+          "scraped_at": "2026-03-07T09:51:37.227324+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27653,7 +27653,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.748096+05:45",
+          "scraped_at": "2026-03-07T09:51:37.338787+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27785,7 +27785,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.856944+05:45",
+          "scraped_at": "2026-03-07T09:51:37.248007+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -27917,7 +27917,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:36.693935+05:45",
+          "scraped_at": "2026-03-07T09:51:37.316163+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -28089,7 +28089,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.540639+05:45",
+          "scraped_at": "2026-03-07T09:51:38.333320+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -28281,7 +28281,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.576998+05:45",
+          "scraped_at": "2026-03-07T09:51:38.384369+05:45",
           "province": {
             "id": 3,
             "name": "Bagmati"
@@ -28479,7 +28479,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.344315+05:45",
+          "scraped_at": "2026-03-07T09:51:39.238437+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -28601,7 +28601,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.362380+05:45",
+          "scraped_at": "2026-03-07T09:51:39.270880+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -28733,7 +28733,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.758706+05:45",
+          "scraped_at": "2026-03-07T09:51:38.611112+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -28865,7 +28865,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.816320+05:45",
+          "scraped_at": "2026-03-07T09:51:38.669508+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -28934,16 +28934,6 @@
               "party_flag": ""
             },
             {
-              "name": "टेक बहादुर प्रधान",
-              "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/tek-bahadur-pradhan_U5RZ2GMv95.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "प्रसाद गुरुङ",
               "party": "नेशनल रिपब्लिक नेपाल",
               "votes": 0,
@@ -28951,6 +28941,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/prasad-gurung_tq1dmyIMVK.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "टेक बहादुर प्रधान",
+              "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/tek-bahadur-pradhan_U5RZ2GMv95.jpg",
               "party_flag": ""
             },
             {
@@ -29007,7 +29007,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.974240+05:45",
+          "scraped_at": "2026-03-07T09:51:38.781146+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29189,7 +29189,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.011750+05:45",
+          "scraped_at": "2026-03-07T09:51:39.040779+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29371,7 +29371,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.149543+05:45",
+          "scraped_at": "2026-03-07T09:51:38.868289+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29533,7 +29533,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.845584+05:45",
+          "scraped_at": "2026-03-07T09:51:38.838958+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29665,7 +29665,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.864010+05:45",
+          "scraped_at": "2026-03-07T09:51:38.828840+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29707,7 +29707,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.185232+05:45",
+          "scraped_at": "2026-03-07T09:51:39.207901+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29799,7 +29799,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.256488+05:45",
+          "scraped_at": "2026-03-07T09:51:39.176760+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -29931,7 +29931,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.147257+05:45",
+          "scraped_at": "2026-03-07T09:51:39.022450+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30103,7 +30103,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.228962+05:45",
+          "scraped_at": "2026-03-07T09:51:39.213815+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30295,7 +30295,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.457185+05:45",
+          "scraped_at": "2026-03-07T09:51:39.434665+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30477,7 +30477,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.078003+05:45",
+          "scraped_at": "2026-03-07T09:51:38.937042+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30609,7 +30609,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:37.950759+05:45",
+          "scraped_at": "2026-03-07T09:51:38.981907+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30741,7 +30741,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.039855+05:45",
+          "scraped_at": "2026-03-07T09:51:38.976894+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -30913,7 +30913,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.085075+05:45",
+          "scraped_at": "2026-03-07T09:51:38.890223+05:45",
           "province": {
             "id": 4,
             "name": "Gandaki"
@@ -31041,7 +31041,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.564282+05:45",
+          "scraped_at": "2026-03-07T09:51:39.564883+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31203,7 +31203,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.174422+05:45",
+          "scraped_at": "2026-03-07T09:51:40.289037+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31355,7 +31355,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.286046+05:45",
+          "scraped_at": "2026-03-07T09:51:40.284503+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31567,7 +31567,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.154245+05:45",
+          "scraped_at": "2026-03-07T09:51:40.336377+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31799,7 +31799,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.200710+05:45",
+          "scraped_at": "2026-03-07T09:51:40.243012+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -31908,16 +31908,6 @@
               "party_flag": ""
             },
             {
-              "name": "मेघ बहादुर कामी",
-              "party": "नेपाल मानवतावादी पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/megh-bahadur-kami_jLDgRTmUT9.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "तिमोथी चौधरी",
               "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
               "votes": 0,
@@ -31925,6 +31915,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/timothy-chaudhary_ZFg16PXFcZ.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "मेघ बहादुर कामी",
+              "party": "नेपाल मानवतावादी पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/megh-bahadur-kami_jLDgRTmUT9.jpg",
               "party_flag": ""
             },
             {
@@ -31948,16 +31948,6 @@
               "party_flag": ""
             },
             {
-              "name": "मनोज यादव",
-              "party": "जनता समाजवादी पार्टी, नेपाल",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/manoj-yadav_RlKnlDqJcL.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "इन्द्र बहादुर रावल",
               "party": "नेपाल कम्युनिष्ट पार्टी (संयुक्त)",
               "votes": 0,
@@ -31965,6 +31955,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/indra-bahadur-rawal_5dUdniH1Nk.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "मनोज यादव",
+              "party": "जनता समाजवादी पार्टी, नेपाल",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/manoj-yadav_RlKnlDqJcL.jpg",
               "party_flag": ""
             },
             {
@@ -32021,7 +32021,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.328060+05:45",
+          "scraped_at": "2026-03-07T09:51:40.460350+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32140,16 +32140,6 @@
               "party_flag": ""
             },
             {
-              "name": "रतन सिं रावत",
-              "party": "राष्ट्रिय जनमोर्चा",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ratan-singh-rawat_PcW4SggHhZ.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "अनिरुध्या आर्य",
               "party": "जनता समाजवादी पार्टी, नेपाल",
               "votes": 0,
@@ -32157,6 +32147,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/aniruddha-arya_TCrdLDB6gL.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रतन सिं रावत",
+              "party": "राष्ट्रिय जनमोर्चा",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ratan-singh-rawat_PcW4SggHhZ.jpg",
               "party_flag": ""
             },
             {
@@ -32183,7 +32183,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.776705+05:45",
+          "scraped_at": "2026-03-07T09:51:40.040232+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32335,7 +32335,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.007745+05:45",
+          "scraped_at": "2026-03-07T09:51:39.851802+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32577,7 +32577,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.126805+05:45",
+          "scraped_at": "2026-03-07T09:51:40.102621+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -32819,7 +32819,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.400934+05:45",
+          "scraped_at": "2026-03-07T09:51:39.368775+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33041,7 +33041,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.426000+05:45",
+          "scraped_at": "2026-03-07T09:51:39.427073+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33050,23 +33050,23 @@
           "constituency": "gulmi-2",
           "candidates": [
             {
-              "name": "गोकर्ण राज विष्‍ट",
-              "party": "नेकपा (एमाले)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": true,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/media/upload-new/gokarna-bista_tcrwg7la2G.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "गोविन्द पन्थी",
               "party": "राष्ट्रिय स्वतन्त्र पार्टी",
               "votes": 0,
               "is_winner": false,
-              "is_leading": false,
+              "is_leading": true,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/govinda-panthi_gjFfskMntQ.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "गोकर्ण राज विष्‍ट",
+              "party": "नेकपा (एमाले)",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/media/upload-new/gokarna-bista_tcrwg7la2G.jpg",
               "party_flag": ""
             },
             {
@@ -33140,16 +33140,6 @@
               "party_flag": ""
             },
             {
-              "name": "पदम थापा मगर",
-              "party": "नेशनल रिपब्लिक नेपाल",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/padam-thapa-magar_REIxXwiRzz.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "भागिरथ थापा",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -33157,6 +33147,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bhagirath-thapa_fSdO9OJpI0.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "पदम थापा मगर",
+              "party": "नेशनल रिपब्लिक नेपाल",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/padam-thapa-magar_REIxXwiRzz.jpg",
               "party_flag": ""
             },
             {
@@ -33210,6 +33210,16 @@
               "party_flag": ""
             },
             {
+              "name": "नरेन्द्र प्रसाद रिजाल",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/narendra-prasad-rijal_DXQev7jKRQ.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "राम प्रसाद पोख्रेल",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -33217,16 +33227,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-prasad-pokhrel_ppZx4R911d.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "भुमिराज सापकोटा",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhumiraj-sapkota_jqz9a1urIk.jpg",
               "party_flag": ""
             },
             {
@@ -33240,13 +33240,13 @@
               "party_flag": ""
             },
             {
-              "name": "नरेन्द्र प्रसाद रिजाल",
+              "name": "भुमिराज सापकोटा",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/narendra-prasad-rijal_DXQev7jKRQ.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bhumiraj-sapkota_jqz9a1urIk.jpg",
               "party_flag": ""
             },
             {
@@ -33273,7 +33273,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.752800+05:45",
+          "scraped_at": "2026-03-07T09:51:39.861551+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33625,7 +33625,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.815580+05:45",
+          "scraped_at": "2026-03-07T09:51:39.873771+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -33917,7 +33917,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.890861+05:45",
+          "scraped_at": "2026-03-07T09:51:39.950985+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -34289,7 +34289,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.237037+05:45",
+          "scraped_at": "2026-03-07T09:51:40.397087+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -34561,7 +34561,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.380983+05:45",
+          "scraped_at": "2026-03-07T09:51:40.353265+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -34770,16 +34770,6 @@
               "party_flag": ""
             },
             {
-              "name": "मनोज हरिजन",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/manoj-harijan_isTCVLNooT.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "राजेन्द्र प्रसाद यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -34790,6 +34780,16 @@
               "party_flag": ""
             },
             {
+              "name": "मनोज हरिजन",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/manoj-harijan_isTCVLNooT.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "हरि नारायण हरिजन",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -34797,16 +34797,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/hari-narayan-harijan_iPSv5FiEiH.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "विष्‍णु प्रसाद ढकाल",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bishnu-prasad-dhakal_INplaiYdPm.jpg",
               "party_flag": ""
             },
             {
@@ -34840,13 +34830,13 @@
               "party_flag": ""
             },
             {
-              "name": "हद्दीस अलि मिया",
+              "name": "विष्‍णु प्रसाद ढकाल",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/hadith-ali-mia_YOg7Plmdhf.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bishnu-prasad-dhakal_INplaiYdPm.jpg",
               "party_flag": ""
             },
             {
@@ -34858,12 +34848,22 @@
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bishnu-prasad-paudel_7QDIldFiuz.jpg",
               "party_flag": ""
+            },
+            {
+              "name": "हद्दीस अलि मिया",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/hadith-ali-mia_YOg7Plmdhf.jpg",
+              "party_flag": ""
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.471709+05:45",
+          "scraped_at": "2026-03-07T09:51:39.439856+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35005,7 +35005,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.501063+05:45",
+          "scraped_at": "2026-03-07T09:51:39.467359+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35074,13 +35074,13 @@
               "party_flag": ""
             },
             {
-              "name": "मान बहादुर दर्लामी",
-              "party": "मंगोल नेशनल अर्गनाइजेसन",
+              "name": "राम बहादुर अस्लामी",
+              "party": "सार्वभौम नागरिक पार्टी",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/man-bahadur-darlami_AwnvSgUhlP.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-bahadur-aslami_EXes1VJA5s.jpg",
               "party_flag": ""
             },
             {
@@ -35094,13 +35094,13 @@
               "party_flag": ""
             },
             {
-              "name": "राम बहादुर अस्लामी",
-              "party": "सार्वभौम नागरिक पार्टी",
+              "name": "मान बहादुर दर्लामी",
+              "party": "मंगोल नेशनल अर्गनाइजेसन",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ram-bahadur-aslami_EXes1VJA5s.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/man-bahadur-darlami_AwnvSgUhlP.jpg",
               "party_flag": ""
             },
             {
@@ -35177,7 +35177,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.940632+05:45",
+          "scraped_at": "2026-03-07T09:51:40.044561+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35329,7 +35329,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.946979+05:45",
+          "scraped_at": "2026-03-07T09:51:39.955935+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35441,7 +35441,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35675,13 +35675,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:38.897621+05:45"
+              "scraped_at": "2026-03-07T09:51:39.959032+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.541212+05:45",
+          "scraped_at": "2026-03-07T09:51:39.640074+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -35850,16 +35850,6 @@
               "party_flag": ""
             },
             {
-              "name": "मदन बहादुर थारु",
-              "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/madan-bahadur-tharu_9EkcCBl9jj.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "हरि बहादुर के.सी.",
               "party": "राष्ट्रिय जनमोर्चा",
               "votes": 0,
@@ -35870,13 +35860,13 @@
               "party_flag": ""
             },
             {
-              "name": "श्री बहादुर कुवर",
-              "party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+              "name": "मदन बहादुर थारु",
+              "party": "नेपाल कम्युनिस्ट पार्टी (माओवादी)",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/shree-bahadur-kunwar_xONVAgQPwx.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/madan-bahadur-tharu_9EkcCBl9jj.jpg",
               "party_flag": ""
             },
             {
@@ -35887,6 +35877,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/khil-bahadur-gaha_iufAgW1Rxa.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "श्री बहादुर कुवर",
+              "party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/shree-bahadur-kunwar_xONVAgQPwx.jpg",
               "party_flag": ""
             },
             {
@@ -36003,7 +36003,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.606272+05:45",
+          "scraped_at": "2026-03-07T09:51:39.642346+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -36092,16 +36092,6 @@
               "party_flag": ""
             },
             {
-              "name": "रुक बहादुर पराजुली",
-              "party": "राष्ट्रिय जनमोर्चा",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/ruk-bahadur-parajuli_f7TE8ZTXvd.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "सुरज पाण्‍डे",
               "party": "उज्यालो नेपाल पार्टी",
               "votes": 0,
@@ -36109,6 +36099,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/suraj-pandey_hcYEFDvfCb.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "रुक बहादुर पराजुली",
+              "party": "राष्ट्रिय जनमोर्चा",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/ruk-bahadur-parajuli_f7TE8ZTXvd.jpg",
               "party_flag": ""
             },
             {
@@ -36202,16 +36202,6 @@
               "party_flag": ""
             },
             {
-              "name": "राजु पौडेल",
-              "party": "नेपाली जनता दल",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/raju-paudel_v9YMVZpUE8.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "लिला सिंह राना",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -36219,6 +36209,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/lila-singh-rana_UOcZPYjqUl.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "राजु पौडेल",
+              "party": "नेपाली जनता दल",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/raju-paudel_v9YMVZpUE8.jpg",
               "party_flag": ""
             },
             {
@@ -36252,6 +36252,16 @@
               "party_flag": ""
             },
             {
+              "name": "बेल बहादुर कार्की",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bel-bahadur-karki_50NfmfgsRB.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "केशव टण्‍डन",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -36269,16 +36279,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/gokul-prasad-pandey_gvibI1VXzn.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "बेल बहादुर कार्की",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bel-bahadur-karki_50NfmfgsRB.jpg",
               "party_flag": ""
             },
             {
@@ -36342,6 +36342,16 @@
               "party_flag": ""
             },
             {
+              "name": "कमला बोहरा",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamala-bohara_QLADoNcosQ.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "विमला भट्टराई",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -36390,22 +36400,12 @@
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/tika-bahadur-chhetri_5CgG6npdCe.jpg",
               "party_flag": ""
-            },
-            {
-              "name": "कमला बोहरा",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamala-bohara_QLADoNcosQ.jpg",
-              "party_flag": ""
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.667146+05:45",
+          "scraped_at": "2026-03-07T09:51:39.737169+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -36484,16 +36484,6 @@
               "party_flag": ""
             },
             {
-              "name": "मोजीब अलि मुसलमान",
-              "party": "राष्ट्रिय जनमुक्ति पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/mojib-ali-muslim_uaGsUfb9pr.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "बिशाल गुप्‍ता",
               "party": "जनमत पार्टी",
               "votes": 0,
@@ -36504,13 +36494,13 @@
               "party_flag": ""
             },
             {
-              "name": "बद्रे आलम मुसलमान",
-              "party": "राष्ट्रिय जनमोर्चा",
+              "name": "मोजीब अलि मुसलमान",
+              "party": "राष्ट्रिय जनमुक्ति पार्टी",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/badre-alam-muslim_en1xqguxwU.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/mojib-ali-muslim_uaGsUfb9pr.jpg",
               "party_flag": ""
             },
             {
@@ -36521,6 +36511,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/saroj-singh-chaudhary_7MsyWSwRwD.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "बद्रे आलम मुसलमान",
+              "party": "राष्ट्रिय जनमोर्चा",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/badre-alam-muslim_en1xqguxwU.jpg",
               "party_flag": ""
             },
             {
@@ -36594,16 +36594,6 @@
               "party_flag": ""
             },
             {
-              "name": "गोबिन्द प्रसाद काराखेती",
-              "party": "प्रगतिशील लोकतान्त्रिक पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/gobind-prasad-karakheti_G4LrlXejyp.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "महेन्द्र यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -36621,6 +36611,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/khyamananda-bhusal_mHUlGaNSQ0.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "गोबिन्द प्रसाद काराखेती",
+              "party": "प्रगतिशील लोकतान्त्रिक पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/gobind-prasad-karakheti_G4LrlXejyp.jpg",
               "party_flag": ""
             },
             {
@@ -36704,13 +36704,13 @@
               "party_flag": ""
             },
             {
-              "name": "तेजिन्द्र मल्ल",
+              "name": "करम हुसेन खान",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/tejindra-malla_UJeex6UAzJ.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/karam-husain-khan_KD7HTjeLPb.jpg",
               "party_flag": ""
             },
             {
@@ -36724,6 +36724,16 @@
               "party_flag": ""
             },
             {
+              "name": "तेजिन्द्र मल्ल",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/tejindra-malla_UJeex6UAzJ.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "विष्णु बहादुर राना",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -36734,13 +36744,13 @@
               "party_flag": ""
             },
             {
-              "name": "करम हुसेन खान",
+              "name": "दिपक बहादुर दर्जी",
               "party": "स्वतन्त्र",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/karam-husain-khan_KD7HTjeLPb.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/deepak-bahadur-darji_JJehPcu3Lg.jpg",
               "party_flag": ""
             },
             {
@@ -36751,16 +36761,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/lal-bahadur-rana_BO1tkTgYdA.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "दिपक बहादुर दर्जी",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/deepak-bahadur-darji_JJehPcu3Lg.jpg",
               "party_flag": ""
             },
             {
@@ -36777,7 +36777,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.714189+05:45",
+          "scraped_at": "2026-03-07T09:51:39.670034+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -37009,7 +37009,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:38.861477+05:45",
+          "scraped_at": "2026-03-07T09:51:39.780738+05:45",
           "province": {
             "id": 5,
             "name": "Lumbini"
@@ -37198,16 +37198,6 @@
               "party_flag": ""
             },
             {
-              "name": "राजु श्रेष्‍ठ",
-              "party": "नेपाल जनसेवा पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/raju-shrestha_htuWsd2bzL.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "जय नारायण काफ्ले",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -37215,6 +37205,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/jai-narayan-kafle_PDP5Bp5HGe.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "राजु श्रेष्‍ठ",
+              "party": "नेपाल जनसेवा पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/raju-shrestha_htuWsd2bzL.jpg",
               "party_flag": ""
             },
             {
@@ -37238,6 +37238,16 @@
               "party_flag": ""
             },
             {
+              "name": "सकिल अहमद खा",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/sakil-ahmed-khan_Q7tePBRkNB.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "बसन्त कुमार यादव",
               "party": "स्वतन्त्र",
               "votes": 0,
@@ -37255,16 +37265,6 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/laxman-bahadur-nepal_g3SbOworVp.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "सकिल अहमद खा",
-              "party": "स्वतन्त्र",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/sakil-ahmed-khan_Q7tePBRkNB.jpg",
               "party_flag": ""
             },
             {
@@ -37297,7 +37297,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.637310+05:45",
+          "scraped_at": "2026-03-07T09:51:40.927079+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37409,7 +37409,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.617891+05:45",
+          "scraped_at": "2026-03-07T09:51:40.886387+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37531,7 +37531,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.349612+05:45",
+          "scraped_at": "2026-03-07T09:51:40.423552+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37633,7 +37633,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.585423+05:45",
+          "scraped_at": "2026-03-07T09:51:40.652394+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37715,7 +37715,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.658330+05:45",
+          "scraped_at": "2026-03-07T09:51:40.735013+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37837,7 +37837,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.487192+05:45",
+          "scraped_at": "2026-03-07T09:51:40.698305+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -37949,7 +37949,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.331111+05:45",
+          "scraped_at": "2026-03-07T09:51:40.727111+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38061,7 +38061,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.435580+05:45",
+          "scraped_at": "2026-03-07T09:51:40.475469+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38143,7 +38143,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.739541+05:45",
+          "scraped_at": "2026-03-07T09:51:40.853738+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38275,7 +38275,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.259102+05:45",
+          "scraped_at": "2026-03-07T09:51:40.446955+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38364,16 +38364,6 @@
               "party_flag": ""
             },
             {
-              "name": "कमला डाँगी",
-              "party": "राष्ट्रिय जनमोर्चा",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamala-dangi_Qb1YqFGqYv.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "धन बहादुर बुढामगर",
               "party": "श्रम संस्कृति पार्टी",
               "votes": 0,
@@ -38381,6 +38371,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/dhan-bahadur-budhamagar_5hWuSVjWGZ.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "कमला डाँगी",
+              "party": "राष्ट्रिय जनमोर्चा",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/kamala-dangi_Qb1YqFGqYv.jpg",
               "party_flag": ""
             },
             {
@@ -38427,7 +38427,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.697839+05:45",
+          "scraped_at": "2026-03-07T09:51:40.861245+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38569,7 +38569,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.736757+05:45",
+          "scraped_at": "2026-03-07T09:51:40.800598+05:45",
           "province": {
             "id": 6,
             "name": "Karnali"
@@ -38757,7 +38757,7 @@
       "constituencies": [
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.780737+05:45",
+          "scraped_at": "2026-03-07T09:51:41.071083+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -38776,16 +38776,6 @@
               "party_flag": ""
             },
             {
-              "name": "दिपक बहादुर साउंद",
-              "party": "नेकपा (एमाले)",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/deepak-bahadur-sound_Awq7ZoFEme.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "भरत कुमार स्वार",
               "party": "नेपाली कांग्रेस",
               "votes": 0,
@@ -38793,6 +38783,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/bharat-kumar-swar_AtsIuKB5l3.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "दिपक बहादुर साउंद",
+              "party": "नेकपा (एमाले)",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/deepak-bahadur-sound_Awq7ZoFEme.jpg",
               "party_flag": ""
             },
             {
@@ -38849,7 +38849,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.570134+05:45",
+          "scraped_at": "2026-03-07T09:51:41.150299+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -38951,7 +38951,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:40.053210+05:45",
+          "scraped_at": "2026-03-07T09:51:41.395681+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39073,7 +39073,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.930947+05:45",
+          "scraped_at": "2026-03-07T09:51:41.134296+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39155,7 +39155,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.756256+05:45",
+          "scraped_at": "2026-03-07T09:51:40.866636+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39247,7 +39247,7 @@
         },
         {
           "source": "ekantipur",
-          "scraped_at": "2026-03-07T09:49:33.112050+05:45",
+          "scraped_at": "2026-03-07T09:51:32.716200+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39521,13 +39521,13 @@
                   "party_flag": ""
                 }
               ],
-              "scraped_at": "2026-03-07T09:49:40.072754+05:45"
+              "scraped_at": "2026-03-07T09:51:41.477610+05:45"
             }
           ]
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:40.112527+05:45",
+          "scraped_at": "2026-03-07T09:51:41.323151+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39649,7 +39649,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.876190+05:45",
+          "scraped_at": "2026-03-07T09:51:41.194792+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39751,7 +39751,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.898410+05:45",
+          "scraped_at": "2026-03-07T09:51:41.200339+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39943,7 +39943,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.955277+05:45",
+          "scraped_at": "2026-03-07T09:51:41.244912+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -39972,16 +39972,6 @@
               "party_flag": ""
             },
             {
-              "name": "विजय बहादुर स्वाँर",
-              "party": "नेपाली कांग्रेस",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/bijaya-bahadur-swanr_AtqyEe9j9u.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "नन्द बहादुर साउँद",
               "party": "नेपाली कम्युनिष्ट पार्टी",
               "votes": 0,
@@ -39989,6 +39979,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/nanda-bahadur-saud_nNB3GEXgH4.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "विजय बहादुर स्वाँर",
+              "party": "नेपाली कांग्रेस",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/bijaya-bahadur-swanr_AtqyEe9j9u.jpg",
               "party_flag": ""
             },
             {
@@ -40022,16 +40022,6 @@
               "party_flag": ""
             },
             {
-              "name": "दल बहादुर बुचामगर",
-              "party": "नेशनल रिपब्लिक नेपाल",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/dal-bahadur-buchamagar_Benx9SYRPs.jpg",
-              "party_flag": ""
-            },
-            {
               "name": "करबीरे कडाँरा",
               "party": "नेपाल मानवतावादी पार्टी",
               "votes": 0,
@@ -40042,23 +40032,13 @@
               "party_flag": ""
             },
             {
-              "name": "राजेश मयाल वि.क.",
-              "party": "स्वतन्त्र",
+              "name": "दल बहादुर बुचामगर",
+              "party": "नेशनल रिपब्लिक नेपाल",
               "votes": 0,
               "is_winner": false,
               "is_leading": false,
               "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/rajesh-mayal-bk_FuDNZfzH0e.jpg",
-              "party_flag": ""
-            },
-            {
-              "name": "लक्ष्मी पुन मगर",
-              "party": "नेपाल मजदुर किसान पार्टी",
-              "votes": 0,
-              "is_winner": false,
-              "is_leading": false,
-              "margin": 0,
-              "image": "https://npcdn.ratopati.com/election/candidates/2082/laxmi-pun-magar_R0VEo3XXUS.jpg",
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/dal-bahadur-buchamagar_Benx9SYRPs.jpg",
               "party_flag": ""
             },
             {
@@ -40072,6 +40052,16 @@
               "party_flag": ""
             },
             {
+              "name": "राजेश मयाल वि.क.",
+              "party": "स्वतन्त्र",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/rajesh-mayal-bk_FuDNZfzH0e.jpg",
+              "party_flag": ""
+            },
+            {
               "name": "खगेन्द्र बहादुर रावत",
               "party": "आम जनता पार्टी(एकल चुनाव चिन्ह)",
               "votes": 0,
@@ -40079,6 +40069,16 @@
               "is_leading": false,
               "margin": 0,
               "image": "https://npcdn.ratopati.com/election/candidates/2082/khagendra-bahadur-rawat_sZp9kF398A.jpg",
+              "party_flag": ""
+            },
+            {
+              "name": "लक्ष्मी पुन मगर",
+              "party": "नेपाल मजदुर किसान पार्टी",
+              "votes": 0,
+              "is_winner": false,
+              "is_leading": false,
+              "margin": 0,
+              "image": "https://npcdn.ratopati.com/election/candidates/2082/laxmi-pun-magar_R0VEo3XXUS.jpg",
               "party_flag": ""
             },
             {
@@ -40105,7 +40105,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:39.973655+05:45",
+          "scraped_at": "2026-03-07T09:51:41.285232+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40227,7 +40227,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:40.010562+05:45",
+          "scraped_at": "2026-03-07T09:51:41.267946+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40399,7 +40399,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:40.133108+05:45",
+          "scraped_at": "2026-03-07T09:51:41.320753+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40561,7 +40561,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:40.176039+05:45",
+          "scraped_at": "2026-03-07T09:51:41.512105+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40763,7 +40763,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:40.284285+05:45",
+          "scraped_at": "2026-03-07T09:51:41.570159+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
@@ -40965,7 +40965,7 @@
         },
         {
           "source": "ratopati",
-          "scraped_at": "2026-03-07T09:49:40.207023+05:45",
+          "scraped_at": "2026-03-07T09:51:41.549741+05:45",
           "province": {
             "id": 7,
             "name": "Sudurpaschim"
