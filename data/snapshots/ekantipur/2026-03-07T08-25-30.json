@@ -1,0 +1,5048 @@
+{
+  "source": "ekantipur",
+  "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+  "total_constituencies_scraped": 17,
+  "total_districts": 77,
+  "districts_meta": {
+    "taplejung": {
+      "name": "Taplejung",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "panchthar": {
+      "name": "Panchthar",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "illam": {
+      "name": "Illam",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "jhapa": {
+      "name": "Jhapa",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "morang": {
+      "name": "Morang",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "sunsari": {
+      "name": "Sunsari",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "dhankuta": {
+      "name": "Dhankuta",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "sankhuwasabha": {
+      "name": "Sankhuwasabha",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "bhojpur": {
+      "name": "Bhojpur",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "terhathum": {
+      "name": "Terhathum",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "okhaldhunga": {
+      "name": "Okhaldhunga",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "khotang": {
+      "name": "Khotang",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "solukhumbu": {
+      "name": "Solukhumbu",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "udayapur": {
+      "name": "Udayapur",
+      "pid": 1,
+      "pname": "Koshi"
+    },
+    "saptari": {
+      "name": "Saptari",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "siraha": {
+      "name": "Siraha",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "dhanusa": {
+      "name": "Dhanusa",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "mahottari": {
+      "name": "Mahottari",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "sarlahi": {
+      "name": "Sarlahi",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "sindhuli": {
+      "name": "Sindhuli",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "ramechhap": {
+      "name": "Ramechhap",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "dolkha": {
+      "name": "Dolkha",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "sindhupalchowk": {
+      "name": "Sindhupalchowk",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "kavrepalanchowk": {
+      "name": "Kavrepalanchowk",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "lalitpur": {
+      "name": "Lalitpur",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "bhaktapur": {
+      "name": "Bhaktapur",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "kathmandu": {
+      "name": "Kathmandu",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "nuwakot": {
+      "name": "Nuwakot",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "rasuwa": {
+      "name": "Rasuwa",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "dhading": {
+      "name": "Dhading",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "makwanpur": {
+      "name": "Makwanpur",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "rauthat": {
+      "name": "Rauthat",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "bara": {
+      "name": "Bara",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "parsa": {
+      "name": "Parsa",
+      "pid": 2,
+      "pname": "Madhesh"
+    },
+    "chitwan": {
+      "name": "Chitwan",
+      "pid": 3,
+      "pname": "Bagmati"
+    },
+    "gorkha": {
+      "name": "Gorkha",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "lamjung": {
+      "name": "Lamjung",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "tanahun": {
+      "name": "Tanahun",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "syangja": {
+      "name": "Syangja",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "kaski": {
+      "name": "Kaski",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "manang": {
+      "name": "Manang",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "mustang": {
+      "name": "Mustang",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "parbat": {
+      "name": "Parbat",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "myagdi": {
+      "name": "Myagdi",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "baglung": {
+      "name": "Baglung",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "gulmi": {
+      "name": "Gulmi",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "palpa": {
+      "name": "Palpa",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "nawalparasieast": {
+      "name": "Nawalparasi East",
+      "pid": 4,
+      "pname": "Gandaki"
+    },
+    "rupandehi": {
+      "name": "Rupandehi",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "arghakhanchi": {
+      "name": "Arghakhanchi",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "kapilvastu": {
+      "name": "Kapilvastu",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "pyuthan": {
+      "name": "Pyuthan",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "rolpa": {
+      "name": "Rolpa",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "rukumwest": {
+      "name": "Rukum West",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "salyan": {
+      "name": "Salyan",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "dang": {
+      "name": "Dang",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "bardiya": {
+      "name": "Bardiya",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "surkhet": {
+      "name": "Surkhet",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "dailekh": {
+      "name": "Dailekh",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "banke": {
+      "name": "Banke",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "jajarkot": {
+      "name": "Jajarkot",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "dolpa": {
+      "name": "Dolpa",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "humla": {
+      "name": "Humla",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "kalikot": {
+      "name": "Kalikot",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "mugu": {
+      "name": "Mugu",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "jumla": {
+      "name": "Jumla",
+      "pid": 6,
+      "pname": "Karnali"
+    },
+    "bajura": {
+      "name": "Bajura",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "bajhang": {
+      "name": "Bajhang",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "achham": {
+      "name": "Achham",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "doti": {
+      "name": "Doti",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "kailali": {
+      "name": "Kailali",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "kanchanpur": {
+      "name": "Kanchanpur",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "dadeldhura": {
+      "name": "Dadeldhura",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "baitadi": {
+      "name": "Baitadi",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "darchula": {
+      "name": "Darchula",
+      "pid": 7,
+      "pname": "Sudurpaschim"
+    },
+    "nawalparasiwest": {
+      "name": "Nawalparasi West",
+      "pid": 5,
+      "pname": "Lumbini"
+    },
+    "rukumeast": {
+      "name": "Rukum East",
+      "pid": 5,
+      "pname": "Lumbini"
+    }
+  },
+  "regions": {
+    "taplejung": 1,
+    "panchthar": 1,
+    "illam": 2,
+    "jhapa": 5,
+    "morang": 6,
+    "sunsari": 4,
+    "dhankuta": 1,
+    "sankhuwasabha": 1,
+    "bhojpur": 1,
+    "terhathum": 1,
+    "okhaldhunga": 1,
+    "khotang": 1,
+    "solukhumbu": 1,
+    "udayapur": 2,
+    "saptari": 4,
+    "siraha": 4,
+    "dhanusa": 4,
+    "mahottari": 4,
+    "sarlahi": 4,
+    "sindhuli": 2,
+    "ramechhap": 1,
+    "dolkha": 1,
+    "sindhupalchowk": 2,
+    "kavrepalanchowk": 2,
+    "lalitpur": 3,
+    "bhaktapur": 2,
+    "kathmandu": 10,
+    "nuwakot": 2,
+    "rasuwa": 1,
+    "dhading": 2,
+    "makwanpur": 2,
+    "rauthat": 4,
+    "bara": 4,
+    "parsa": 4,
+    "chitwan": 3,
+    "gorkha": 2,
+    "lamjung": 1,
+    "tanahun": 2,
+    "syangja": 2,
+    "kaski": 3,
+    "manang": 1,
+    "mustang": 1,
+    "parbat": 1,
+    "myagdi": 1,
+    "baglung": 2,
+    "gulmi": 2,
+    "palpa": 2,
+    "nawalparasieast": 2,
+    "rupandehi": 5,
+    "arghakhanchi": 1,
+    "kapilvastu": 3,
+    "pyuthan": 1,
+    "rolpa": 1,
+    "rukumwest": 1,
+    "salyan": 1,
+    "dang": 3,
+    "bardiya": 2,
+    "surkhet": 2,
+    "dailekh": 2,
+    "banke": 3,
+    "jajarkot": 1,
+    "dolpa": 1,
+    "humla": 1,
+    "kalikot": 1,
+    "mugu": 1,
+    "jumla": 1,
+    "bajura": 1,
+    "bajhang": 1,
+    "achham": 2,
+    "doti": 1,
+    "kailali": 5,
+    "kanchanpur": 3,
+    "dadeldhura": 1,
+    "baitadi": 1,
+    "darchula": 1,
+    "nawalparasiwest": 2,
+    "rukumeast": 1
+  },
+  "constituencies": [
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 1,
+        "name": "Koshi"
+      },
+      "district": "Jhapa",
+      "constituency": "jhapa-3",
+      "candidates": [
+        {
+          "name": "Prakash Pathak",
+          "party": "Rastriya Swatantra Party",
+          "votes": 22649,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 12394,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/dd9ec1696d26a6558e4544a0f20809e6.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Rajendra Prasad Lingden",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 10255,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 12394,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1772017779.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Hari Bahadur Rajbanshi",
+          "party": "CPN-UML",
+          "votes": 4449,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 18200,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1772018989.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Dipak Timsina",
+          "party": "Shram Sanskriti Party",
+          "votes": 4391,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 18258,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Rajendra Kumar Ghimire",
+          "party": "Nepali Congress",
+          "votes": 4271,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 18378,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1772019080.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Dilliram Ghimire",
+          "party": "Nepali Communist Party",
+          "votes": 742,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 21907,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/4dbce293f3a24a21978f95426a0cfd68.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Manprakash Sangroula",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Abhay Rajwanshi",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771515423.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Binita Kumari Rajbanshi",
+          "party": "Janata Samajbadi Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772010849.png"
+        },
+        {
+          "name": "Shyam Krishna Pathak",
+          "party": "Ujaylo Nepal Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Santosh Katuwal",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Jayen Magar",
+          "party": "National Republic Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793215.png"
+        },
+        {
+          "name": "Chandrakala Sawa",
+          "party": "Sanghiya Loktantrik Rastriya Manch",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793926.png"
+        },
+        {
+          "name": "Yam Kumar Shrestha",
+          "party": "Mongol National Organization",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Dharm Laxmi Duval (Laghu)",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Harsalal Rajbanshi",
+          "party": "Janamat Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Karna Lal Rajbanshi",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22649,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 1,
+        "name": "Koshi"
+      },
+      "district": "Jhapa",
+      "constituency": "jhapa-5",
+      "candidates": [
+        {
+          "name": "Balendra Shah",
+          "party": "Rastriya Swatantra Party",
+          "votes": 34863,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 25795,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/e1f8a9c79c776cc8f747784aec9f43b8.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes": 9068,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 25795,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/5e4bc046e2a1d5f43f579cc48158d31f.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes": 5645,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29218,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/3d3ce115680ce8f7b2199a9676b9fdb5.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Mandhara Chimariya",
+          "party": "Nepali Congress",
+          "votes": 974,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33889,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/c749a4bd77d93852c5783ee8fa75c466.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Ranjit Tamang",
+          "party": "Nepali Communist Party",
+          "votes": 862,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34001,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/779f483fe46d8222c915bd798b931574.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Laxmi Prasad Sangroula",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 779,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34084,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/aa6263279ba3ad32db7d941889c2b639.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Amritlal Mahto",
+          "party": "Janamat Party",
+          "votes": 139,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34724,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Sabin Rai",
+          "party": "Rastriya Pariwartan Party",
+          "votes": 80,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34783,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793782.png"
+        },
+        {
+          "name": "Padam Bahadur Javegu",
+          "party": "Nepal Janamukti Party",
+          "votes": 34,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34829,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920124.png"
+        },
+        {
+          "name": "Dhiren Subba",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 15,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34848,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Shobha Bhandari",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Bipul Guragain",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ranjana Gautam",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Matrika Bhattarai",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Prakash Nepal",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Puskar Khatiwada",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dabwar Shahu",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Khemnath Shiwakoti",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Arjun Sapkota",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dharmraj Guragain",
+          "party": "People First Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793234.png"
+        },
+        {
+          "name": "Amrit Rasaili",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Sanjay Rai",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Sushant Sampang Rai",
+          "party": "Sanghiya Loktantrik Rastriya Manch",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793926.png"
+        },
+        {
+          "name": "San Bahadur Meche",
+          "party": "Mongol National Organization",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 1,
+        "name": "Koshi"
+      },
+      "district": "Sunsari",
+      "constituency": "sunsari-1",
+      "candidates": [
+        {
+          "name": "Harka Raj Rai",
+          "party": "Shram Sanskriti Party",
+          "votes": 5891,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 1082,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771508509.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Goma Tamang",
+          "party": "Rastriya Swatantra Party",
+          "votes": 4809,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 1082,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771419407.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Suryaa Bahadur Bhattarai",
+          "party": "Nepali Communist Party",
+          "votes": 1291,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 4600,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771419263.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Tika Ram Limbu",
+          "party": "CPN-UML",
+          "votes": 964,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 4927,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771419020.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Sujendra Tamang",
+          "party": "Nepali Congress",
+          "votes": 898,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 4993,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771419107.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Uddav Shrestha",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 375,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5516,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Dambar Lawati",
+          "party": "Ujaylo Nepal Party",
+          "votes": 104,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5787,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Bhipi Rai",
+          "party": "Rastriya Sajha Party",
+          "votes": 25,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5866,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920245.png"
+        },
+        {
+          "name": "Mahesh Shrestha",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 18,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5873,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Nagendra Bahadur Limbu",
+          "party": "Janata Samajbadi Party (Ekal Chunab Chinha)",
+          "votes": 16,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5875,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772010849.png"
+        },
+        {
+          "name": "Subash Bishwokarma",
+          "party": "Independent",
+          "votes": 15,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5876,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sumit Rai",
+          "party": "Independent",
+          "votes": 11,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5880,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Jivan Kala Rai",
+          "party": "Independent",
+          "votes": 10,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5881,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Deuman Limbu",
+          "party": "Independent",
+          "votes": 9,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5882,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sanjay Rai",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5886,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Naresh B.k",
+          "party": "Sainyukta Nagarik Party",
+          "votes": 3,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5888,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793963.png"
+        },
+        {
+          "name": "Raksha Kumar Rai",
+          "party": "Miteri Party Nepal",
+          "votes": 2,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5889,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793631.png"
+        },
+        {
+          "name": "Yam Bahadur Bista",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 2,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5889,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Dil Bahadur Bastola",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5890,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Om Krishna Udas",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5890,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Chet Bahadur Rai",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5890,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shesh Prasad Regmi",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5890,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Rajendra Gurung",
+          "party": "Mongol National Organization",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5891,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Yam Bahadur Limbu",
+          "party": "Nepal Janamukti Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5891,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920124.png"
+        },
+        {
+          "name": "Raj Kumar Limbu",
+          "party": "Sanghiya Loktantrik Rastriya Manch",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5891,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793926.png"
+        },
+        {
+          "name": "Raj Kumar Rai",
+          "party": "Nepali Janashramdan Sanskriti Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5891,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011456.jpg"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 2,
+        "name": "Madhesh"
+      },
+      "district": "Saptari",
+      "constituency": "saptari-2",
+      "candidates": [
+        {
+          "name": "Ramji Yadav",
+          "party": "Rastriya Swatantra Party",
+          "votes": 6275,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 3001,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/1f615147b5a82e53c482ecacad6ae4de.JPG",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Umesh Kumar Yadav",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 3274,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 3001,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/7989c83f412742a6ac2e1e1d52c172ae.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Chandra Kant Raut",
+          "party": "Janamat Party",
+          "votes": 2686,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 3589,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/a49af5499666ff8077a0ae0a432a890b.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Satish Kumar Singh",
+          "party": "Swabhiman Party",
+          "votes": 986,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5289,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/2b4b04e6e40a50b3492c0e713157ee3e.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797851.png"
+        },
+        {
+          "name": "Ram Kumar Yadav",
+          "party": "Nepali Congress",
+          "votes": 711,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5564,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771254849.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Mohammad Jiaul Rahman",
+          "party": "CPN-UML",
+          "votes": 325,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 5950,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/477061a6b56cc8974e02597d92c8288f.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Afroj Aalam",
+          "party": "Rastra Nirman Dal Nepal",
+          "votes": 213,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6062,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793655.png"
+        },
+        {
+          "name": "Suryanath Prasad Yadav",
+          "party": "Nepali Communist Party",
+          "votes": 126,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6149,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/cdcb003490ec451f397782add74eabb8.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Ajay Kumar Das",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 96,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6179,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Ranju Kumari Jha (Thakur)",
+          "party": "Nepal Janata Party",
+          "votes": 54,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6221,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792760.png"
+        },
+        {
+          "name": "Deepak Chaudhary",
+          "party": "Ujaylo Nepal Party",
+          "votes": 49,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6226,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/006c97243452023b28690ec977ad72d6.PNG",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Anish Ansari",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 35,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6240,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Sharad Singh Yadav",
+          "party": "Jana Adhikar Party",
+          "votes": 23,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6252,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/e5813f11533fe2adc51dd5fe91223c41.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792496.png"
+        },
+        {
+          "name": "Indrasagar Gupta",
+          "party": "Nepalka Lagi Nepali Party",
+          "votes": 11,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6264,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793078.png"
+        },
+        {
+          "name": "Shushila Kumari Sah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Santosh Kumar Rajak",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sanjay Kumar Chaudhary",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sahana Das",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Vinodanand Jha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Biseshowr Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Bindu Kumari Chaudhary",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Bilas Thakur",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Prem Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Parasmani Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Jitendra Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kisundev Ram",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ambika Devi Safi",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Abhinash Kumar Singh",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Balram Prasad Yadav",
+          "party": "Janata Loktantrik Party, Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792521.png"
+        },
+        {
+          "name": "Sunil Raj Das",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Raj Kumar Mandal",
+          "party": "Nepal Sangyhia Samajbadi Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793037.png"
+        },
+        {
+          "name": "Deepak Kumar Mandal",
+          "party": "Sarbhobham Nagarik Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794010.png"
+        },
+        {
+          "name": "Tribhuvan Khang",
+          "party": "Shram Sanskriti Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Nilam Kumari Yadav",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6275,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 2,
+        "name": "Madhesh"
+      },
+      "district": "Saptari",
+      "constituency": "saptari-3",
+      "candidates": [
+        {
+          "name": "Amar Kant Chaudhary",
+          "party": "Rastriya Swatantra Party",
+          "votes": 7494,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 1581,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/4fb26d7a371a770ca391d23368f83de4.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Upendra Yadav",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 5913,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 1581,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/6c4985eb04a37d5f75c515eb3573c6a2.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Dinesh Kumar Yadav",
+          "party": "Nepali Congress",
+          "votes": 3125,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 4369,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/a44b826fc7691325fd4372cd815d7425.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Tarakant Chaudhary",
+          "party": "CPN-UML",
+          "votes": 1007,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6487,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/ee51d15893c08b41b7a643ba021ecd94.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Surendra Prasad Sharma",
+          "party": "Janamat Party",
+          "votes": 740,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6754,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Arun Kumar Sah",
+          "party": "Nepali Communist Party",
+          "votes": 117,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7377,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/4c1a382d1795a9bcf19795c24e1f4396.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Santosh Kumar Chaman",
+          "party": "Nepal Janata Party",
+          "votes": 57,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7437,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792760.png"
+        },
+        {
+          "name": "Parmeshwor Lal Sah",
+          "party": "Ujaylo Nepal Party",
+          "votes": 56,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7438,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Gajendra Kumar Mandal",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 29,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7465,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Umdeshowr Prasad Sahu",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 23,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7471,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Dhanik Lal Chaudhary",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7493,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Jay Narayan Mandal",
+          "party": "Shram Sanskriti Party",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7493,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Prabhu Prasad Sah",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Mahadev Ram",
+          "party": "Bahujan Ekata Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920309.png"
+        },
+        {
+          "name": "Om Prakash Bishwokarma",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kaushal Kumari Chaudhary",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Koshila Devi Paswan",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dubi Lal Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Pabhu Narayan Chaudhary",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Rajiya Devi Sada",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sarita Kumari Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Hari Narayan Pasman",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7494,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 2,
+        "name": "Madhesh"
+      },
+      "district": "Sarlahi",
+      "constituency": "sarlahi-2",
+      "candidates": [
+        {
+          "name": "Rabin Mahato",
+          "party": "Rastriya Swatantra Party",
+          "votes": 26156,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 20229,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256130.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Mahindra Raya Yadav",
+          "party": "Nepali Communist Party",
+          "votes": 5927,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20229,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256099.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Rajendra Mahato",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 3672,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22484,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771511701.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Dr. Saroj Kumar",
+          "party": "Nepali Congress",
+          "votes": 3096,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 23060,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256108.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Raji Ahamad",
+          "party": "Nepal Sangyhia Samajbadi Party (Ekal Chunab Chinha)",
+          "votes": 935,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 25221,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793037.png"
+        },
+        {
+          "name": "Nageshowr Sah",
+          "party": "CPN-UML",
+          "votes": 830,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 25326,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771255588.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Nagendra Chaudhary",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Satya Narayan Chaudhary Kalwar",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Manoj Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Manoj Kumar Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Manoj Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Nath Sah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Adhin Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Narayan Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ramnanu Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Kebal Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Birendra Thakur Lohar",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Bikau Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dipesh Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Tej Narayan Musahar",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Gungeshwor Prasad Shah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kanchan Chaudhary",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Abdul Kudush Mansuri",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Chandra Bhusan Sah",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Chaneshwar Sah",
+          "party": "United Nepal Democratic Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920380.png"
+        },
+        {
+          "name": "Krishna Yadav",
+          "party": "Nepalka Lagi Nepali Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771257126.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793078.png"
+        },
+        {
+          "name": "Umesh Kumar Singh",
+          "party": "Gatishil Loktantrik Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771257117.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792333.png"
+        },
+        {
+          "name": "Ram Naresh Ram",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771257110.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Bipin Kapar",
+          "party": "Janamat Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771257100.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Bharat Chaudhary",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771257093.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Raj Kishor Raya Yadav",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26156,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771257086.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 2,
+        "name": "Madhesh"
+      },
+      "district": "Sarlahi",
+      "constituency": "sarlahi-4",
+      "candidates": [
+        {
+          "name": "Amaresh Kumar Singh",
+          "party": "Rastriya Swatantra Party",
+          "votes": 11383,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 4431,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256577.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Gagan Kumar Thapa",
+          "party": "Nepali Congress",
+          "votes": 6952,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 4431,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771416987.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Amnish Kumar Yadav",
+          "party": "CPN-UML",
+          "votes": 1967,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 9416,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256560.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Rakesh Kumar Mishra",
+          "party": "Janamat Party",
+          "votes": 840,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10543,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256897.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Rajnish Raya",
+          "party": "Nepali Communist Party",
+          "votes": 489,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10894,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256569.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Dhiraj Thakur",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Gyanendra Prasad Kushwaha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Nilesh Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Nrendra Prasad Singh",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Madhumala Kumari Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Mahesh Mandal Dhanuk",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Mukesh Prasad Kushwaha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Prabesh Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Raman Mishra",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Lakhendra Mahato",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Bikram Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shulpani Jha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shiva Prasad Sah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sanjiv Kumar Paswan",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sachitra Sahani",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Santosh Kumar Nisad",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Arbind Kumar Thakur",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Pradip Kumar Jha",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256831.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Rameshowr Raya Yadav",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256889.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Ramcharitra Sahani",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256905.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Ramnath Prasad Sah",
+          "party": "Nepal Communist Party (Sainyukta)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256912.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792701.png"
+        },
+        {
+          "name": "Pitambar Singh Kushwaha",
+          "party": "Ujaylo Nepal Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771256919.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Harinandan Kumar Ranjan",
+          "party": "Bahujan Ekata Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920309.png"
+        },
+        {
+          "name": "Uday Kant Mishra",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Rinki Kumari Sah",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Jay Shankar Singh Kushwaha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ajay Ojha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ambuj Prasad Sah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Amit Ranjan Singh",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kamlesh Mandal",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ganesh Prasad Singh",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Chun Chun Bhandari",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Chotelal Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11383,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 3,
+        "name": "Bagmati"
+      },
+      "district": "Bhaktapur",
+      "constituency": "bhaktapur-2",
+      "candidates": [
+        {
+          "name": "Rajiv Khatri",
+          "party": "Rastriya Swatantra Party",
+          "votes": 33013,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 24979,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771154827.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes": 8034,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24979,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770372449.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes": 6995,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26018,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771418082.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Ramesh Baidhya",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 2454,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30559,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771411541.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Ram Prasad Sapkota",
+          "party": "Nepali Communist Party",
+          "votes": 1058,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 31955,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771418206.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Bikram Thapa",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 873,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 32140,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771418315.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Arjun Bashu",
+          "party": "Shram Sanskriti Party",
+          "votes": 558,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 32455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Jeet Ram Lama",
+          "party": "Ujaylo Nepal Party",
+          "votes": 321,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 32692,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771511464.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Ananda Karki",
+          "party": "Independent",
+          "votes": 133,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 32880,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771157971.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Prakash Raj Dhungel",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 34,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 32979,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770615217.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Januka Pathak",
+          "party": "Nepal Janasewa Party",
+          "votes": 16,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 32997,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771152241.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920403.png"
+        },
+        {
+          "name": "Sajan Dhakal",
+          "party": "Independent",
+          "votes": 16,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 32997,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Janmadev Jaisi",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 10,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33003,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770455849.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Nabin Shrestha",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 8,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33005,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Pemba Ghale",
+          "party": "Mongol National Organization",
+          "votes": 8,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33005,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Dekumari Sah",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 6,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33007,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Rakesh Shrestha",
+          "party": "Triumul Nepal",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33008,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771153734.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792598.png"
+        },
+        {
+          "name": "Bal Krishna Thapa",
+          "party": "Independent",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33008,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Archana Bhattarai",
+          "party": "Independent",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33008,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sabin Mahat",
+          "party": "Independent",
+          "votes": 4,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33009,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Rajesh Bade",
+          "party": "Nepalka Lagi Nepali Party",
+          "votes": 3,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33010,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793078.png"
+        },
+        {
+          "name": "Manoj Lama",
+          "party": "Independent",
+          "votes": 2,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33011,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Lok Krishna Dahal",
+          "party": "Nepal Communist Party (Sainyukta)",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33012,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771152918.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792701.png"
+        },
+        {
+          "name": "Om Krishna Kutu",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33012,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Nabin Kumar Mahat",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33012,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770614549.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Pradip Kumar Rupakheti",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33012,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Anita Bhattarai",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33013,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Madhu Prakash Sahukhal",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33013,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Renu Shrestha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33013,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Lakshmi Bastola Paudel",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33013,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shyan Krishna Dhukhwa",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33013,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Subarna Thapa",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 33013,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 3,
+        "name": "Bagmati"
+      },
+      "district": "Kathmandu",
+      "constituency": "kathmandu-1",
+      "candidates": [
+        {
+          "name": "Ranju Neupane",
+          "party": "Rastriya Swatantra Party",
+          "votes": 15455,
+          "is_winner": true,
+          "is_leading": false,
+          "margin": 9091,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798634.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Prabal Thapa Chhetri",
+          "party": "Nepali Congress",
+          "votes": 6364,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 9091,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798560.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Rabindra Mishra",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 3972,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 11483,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798643.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Mohan Raj Regmi",
+          "party": "CPN-UML",
+          "votes": 1618,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 13837,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798500.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Menuka Bhandari",
+          "party": "Nepali Communist Party",
+          "votes": 315,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15140,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798622.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Kamal Koirala",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798694.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sangeet Bamm",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kushal Khatri",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kumar Shahi",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kiran Shah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Raju Bhujel",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ramesh Prasad Joshi",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Raj Kumar Bajgain",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shambhu Pokharel",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shanti Shrestha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Surendra Prasad Dhakal",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sagar Joshi",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Asim Man Singh Basnyat",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798683.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kamal Subedi",
+          "party": "Janadesh Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772013190.png"
+        },
+        {
+          "name": "Surendra Pandey",
+          "party": "Samabeshi Samajbadi Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772013461.png"
+        },
+        {
+          "name": "Arjun Bahadur Shahi",
+          "party": "Nepal Janasewa Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920403.png"
+        },
+        {
+          "name": "Indra Prasad Shrestha",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Mang Lal Shrestha",
+          "party": "Ujaylo Nepal Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Dhanraj Shahi",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Raj Kumar Limbu",
+          "party": "Miteri Party Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793631.png"
+        },
+        {
+          "name": "Samir Lama Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Sabin Sigdel",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798718.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Ramila Jyakha (Suwal)",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Prakash Nayaju",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15455,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770798659.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 3,
+        "name": "Bagmati"
+      },
+      "district": "Kathmandu",
+      "constituency": "kathmandu-4",
+      "candidates": [
+        {
+          "name": "Pukar Bam",
+          "party": "Rastriya Swatantra Party",
+          "votes": 29142,
+          "is_winner": true,
+          "is_leading": false,
+          "margin": 20318,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448823.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Sachin Timilsena",
+          "party": "Nepali Congress",
+          "votes": 8824,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20318,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448750.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Rajan Bhattarai",
+          "party": "CPN-UML",
+          "votes": 5733,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 23409,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449900.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Surendra Raj Bhandari",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 2025,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 27117,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448834.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Jhanak Bahadur Adhikari",
+          "party": "Ujaylo Nepal Party",
+          "votes": 1034,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 28108,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449537.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Barun Amatya",
+          "party": "Shram Sanskriti Party",
+          "votes": 756,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 28386,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449325.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Indra Kumar Bhusal",
+          "party": "Nepali Communist Party",
+          "votes": 657,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 28485,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448812.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Binod Babu Pradhan",
+          "party": "Independent",
+          "votes": 102,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29040,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449005.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Archan Shumsher Rana",
+          "party": "Independent",
+          "votes": 83,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29059,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449574.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Aasha Lal Shrestha",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 56,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29086,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448851.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Pujan Gajurel",
+          "party": "Independent",
+          "votes": 40,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29102,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449059.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Karisma Kharel",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 31,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29111,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449478.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Sanjiv Darji",
+          "party": "Independent",
+          "votes": 29,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29113,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448991.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Kemsh Singh",
+          "party": "Janadesh Party Nepal (Ekal Chunab Chinha)",
+          "votes": 22,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29120,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449560.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772013190.png"
+        },
+        {
+          "name": "Chhabi Bahadur Khanal",
+          "party": "Rastriya Janamorcha",
+          "votes": 20,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29122,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448864.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920192.png"
+        },
+        {
+          "name": "Shyam Kumar Bhattaaarai Khatri",
+          "party": "Nepalka Lagi Nepali Party",
+          "votes": 18,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29124,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448910.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793078.png"
+        },
+        {
+          "name": "Dipendra Kumar Kafle",
+          "party": "Independent",
+          "votes": 18,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29124,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449109.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Datta Budha",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 16,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29126,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448879.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Sita Tamang",
+          "party": "Mongol National Organization",
+          "votes": 16,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29126,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770448892.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Rajan Puri",
+          "party": "Jaya Matribhumi Party",
+          "votes": 11,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29131,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449314.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792551.png"
+        },
+        {
+          "name": "Prem Kumar Rai",
+          "party": "Miteri Party Nepal",
+          "votes": 9,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29133,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449276.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793631.png"
+        },
+        {
+          "name": "Devaraj Paudel",
+          "party": "Independent",
+          "votes": 9,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29133,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449089.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Madan Dev Acharya",
+          "party": "Independent",
+          "votes": 9,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29133,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449022.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Manoj Adhikari",
+          "party": "Independent",
+          "votes": 8,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29134,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449037.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Muskan Paudel",
+          "party": "United Nepal Democratic Party",
+          "votes": 7,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29135,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449304.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920380.png"
+        },
+        {
+          "name": "Chet Bahadur Ale",
+          "party": "Rastriya Janamukti Party",
+          "votes": 7,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29135,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449348.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793745.png"
+        },
+        {
+          "name": "Kedar Bahadur Karki",
+          "party": "Independent",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29137,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449123.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ashish Shrestha",
+          "party": "Independent",
+          "votes": 2,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29140,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770449139.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 3,
+        "name": "Bagmati"
+      },
+      "district": "Kathmandu",
+      "constituency": "kathmandu-5",
+      "candidates": [
+        {
+          "name": "Sasmit Pokharel",
+          "party": "Rastriya Swatantra Party",
+          "votes": 30737,
+          "is_winner": true,
+          "is_leading": false,
+          "margin": 21578,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861702.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Pradeep Paudel",
+          "party": "Nepali Congress",
+          "votes": 9159,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 21578,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861664.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Ishwar Pokharel",
+          "party": "CPN-UML",
+          "votes": 4701,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 26036,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861651.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Kamal Thapa",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 1922,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 28815,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861682.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Shreeram Gurung",
+          "party": "Ujaylo Nepal Party",
+          "votes": 1100,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29637,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861719.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Amit Thapa",
+          "party": "Shram Sanskriti Party",
+          "votes": 769,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 29968,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Kalpana Sharma",
+          "party": "Nepali Communist Party",
+          "votes": 574,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30163,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861692.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Shova Lal Shrestha",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 574,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30163,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Nisha Adhikari",
+          "party": "Gatishil Loktantrik Party",
+          "votes": 91,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30646,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861743.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792333.png"
+        },
+        {
+          "name": "Dharma Dangol",
+          "party": "Independent",
+          "votes": 59,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30678,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Bishnu Shrestha",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 50,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30687,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Ashok Bikram G.C",
+          "party": "Rastriya Janamorcha",
+          "votes": 49,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30688,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920192.png"
+        },
+        {
+          "name": "Shyam Kaji Sunuwar",
+          "party": "Sainyukta Nagarik Party",
+          "votes": 45,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30692,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793963.png"
+        },
+        {
+          "name": "Basanta Raj Kuwnwar",
+          "party": "Jaya Matribhumi Party",
+          "votes": 33,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30704,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770861768.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792551.png"
+        },
+        {
+          "name": "Gyanendra Prajapati",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 31,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30706,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Nimesh Khanal",
+          "party": "Nepal Communist Party (Sainyukta)",
+          "votes": 27,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30710,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792701.png"
+        },
+        {
+          "name": "Kyamuna Mijar",
+          "party": "Independent",
+          "votes": 16,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30721,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Danindra Joshi",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 15,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30722,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Yubraj Kafle",
+          "party": "Nepal Communist Party (Marxist) (Ekal Chunab Chinha)",
+          "votes": 12,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30725,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772013752.jpg"
+        },
+        {
+          "name": "Komal Paudel",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 9,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30728,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Meera Gurung",
+          "party": "Mongol National Organization",
+          "votes": 6,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30731,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Ramesh Tamang",
+          "party": "Triumul Nepal",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30732,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792598.png"
+        },
+        {
+          "name": "Ramita Sapkota",
+          "party": "Independent",
+          "votes": 4,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30733,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Prava Shrestha",
+          "party": "Independent",
+          "votes": 2,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30735,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dhak Bahadur Karki",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 30736,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 3,
+        "name": "Bagmati"
+      },
+      "district": "Kathmandu",
+      "constituency": "kathmandu-8",
+      "candidates": [
+        {
+          "name": "Biraj Bhakta Shrestha",
+          "party": "Rastriya Swatantra Party",
+          "votes": 24592,
+          "is_winner": true,
+          "is_leading": false,
+          "margin": 21375,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770800083.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Suman Shayami",
+          "party": "Nepali Communist Party",
+          "votes": 3217,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 21375,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770800073.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Sapana Rajbhandari",
+          "party": "Nepali Congress",
+          "votes": 2835,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 21757,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770800064.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Nabin Shahi",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 1909,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 22683,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Rajesh Shakya",
+          "party": "CPN-UML",
+          "votes": 1328,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 23264,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770800055.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Rajan Khadgi",
+          "party": "Ujaylo Nepal Party",
+          "votes": 786,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 23806,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770800095.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Sunita Maharjan",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shushila Nepali",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Bikash Khadgi",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Muna Neupane (Pandey)",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Tulasha Shrestha Maharjan",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Khagesh Ranjitkar",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Mukti Nath Sharma",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Chhatra Kumar Pakhrin",
+          "party": "Rastriya Mukti Aandolan, Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772013445.jpg"
+        },
+        {
+          "name": "Bijay Dangol",
+          "party": "Nepal Sangyhia Samajbadi Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793037.png"
+        },
+        {
+          "name": "Salam Singh Lama",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Shiva Sundar Karmacharya",
+          "party": "Shram Sanskriti Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770800113.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Rajendra Prasad Shah",
+          "party": "Nepal Communist Party (Sainyukta)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792701.png"
+        },
+        {
+          "name": "Resham Bahadur Sunar",
+          "party": "Sainyukta Nagarik Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793963.png"
+        },
+        {
+          "name": "Dinesh Shahi",
+          "party": "Nepal Janata Samrakchhyan Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792777.png"
+        },
+        {
+          "name": "Bandana Shrestha",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Saroj Raj Baidhya",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 24592,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 2,
+        "name": "Madhesh"
+      },
+      "district": "Rauthat",
+      "constituency": "rautahat-1",
+      "candidates": [
+        {
+          "name": "Rajesh Kumar Chaudhary",
+          "party": "Rastriya Swatantra Party",
+          "votes": 20726,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 12813,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/b1febb3d1fb2c39efac75b71c493d063.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Ajay Kumar Gupta",
+          "party": "CPN-UML",
+          "votes": 7913,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 12813,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/ceb984aca912b58124ce692e71f14b55.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Anil Kumar Jha",
+          "party": "Nepali Congress",
+          "votes": 5884,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 14842,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/7b36f60f37895add3296b4564fb817be.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Madhav Kumar Nepal",
+          "party": "Nepali Communist Party",
+          "votes": 5283,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15443,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/c86e9c9e6d62bfa32ae98691cbfe3ac7.jpeg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Yogendra Raya Yadav",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 5019,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 15707,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/9d84def64798541802f7c8b16892cba7.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Devendra Mishra",
+          "party": "Janamat Party",
+          "votes": 711,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20015,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Tribhuwan Sah",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 338,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20388,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Sunil Prasad Kushwaha",
+          "party": "Sarbhobham Nagarik Party",
+          "votes": 167,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20559,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794010.png"
+        },
+        {
+          "name": "Shree Madan Shah",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 100,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20626,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Umesh Kumar Shah",
+          "party": "Ujaylo Nepal Party",
+          "votes": 15,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20711,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Mrinal Kumar Shah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Saroj Kumar Kushwaha",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Raju Kumar Mukhiya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Kishor Thakur",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Rabi Archanam Verma",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Radheshyam Sah Teli",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ramananda Sharma",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ramkrit Sah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Naresg Raya Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ram Sewak Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Laksmeshwor Narayan Sah",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shyan Babu Prasad",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shambhu Prasad",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sanjib Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Minindra Kumar Thakur",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Bibek Chaudhary",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dinesh Kumar Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dinesj Raya",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Indu Devi Gupta",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Abhishek Mishra",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Amrita Kumari Yadav",
+          "party": "Independent",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Sanjay Kumar Yadav",
+          "party": "Jana Adhikar Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792496.png"
+        },
+        {
+          "name": "Prabha Kumari Singh",
+          "party": "Rastra Nirman Dal Nepal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793655.png"
+        },
+        {
+          "name": "Mo. Tanbir Akhtar Mikrani",
+          "party": "Rastriya Mukti Party Nepal (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772011143.jpg"
+        },
+        {
+          "name": "Jajul Dewan",
+          "party": "Nepal Sangyhia Samajbadi Party (Ekal Chunab Chinha)",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793037.png"
+        },
+        {
+          "name": "Sanjay Kumar Yadav",
+          "party": "Nepali Janata Dal",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793165.png"
+        },
+        {
+          "name": "Ranjit Kumar Patel",
+          "party": "Jaya Matribhumi Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792551.png"
+        },
+        {
+          "name": "Rajaram Mukhiya",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Bidhnath Prasad Chaudhary",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 0,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 20726,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 3,
+        "name": "Bagmati"
+      },
+      "district": "Chitwan",
+      "constituency": "chitwan-2",
+      "candidates": [
+        {
+          "name": "Rabi Lamichhane",
+          "party": "Rastriya Swatantra Party",
+          "votes": 54402,
+          "is_winner": true,
+          "is_leading": false,
+          "margin": 39838,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1772019775.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes": 14564,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 39838,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/aa1b7cad524dbc775c269a1e53d8287c.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes": 6992,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 47410,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/6daab1b818118f6b30b5a2e9dbfc9e56.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Pratap Gurung",
+          "party": "Nepali Communist Party",
+          "votes": 4969,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 49433,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/14d76441a27e4fc5ca12b1cf7bc93724.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Milan Thapa Magar",
+          "party": "Shram Sanskriti Party",
+          "votes": 751,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 53651,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Jagadishwar Adhikari",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 644,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 53758,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771511802.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Indra Bahadur Syangtan",
+          "party": "Independent",
+          "votes": 539,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 53863,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Ni. Kumar Pakhrin",
+          "party": "Ujaylo Nepal Party",
+          "votes": 506,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 53896,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771511892.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Risha Gole",
+          "party": "Mongol National Organization",
+          "votes": 153,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54249,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Devi Sharma",
+          "party": "Rastriya Janamorcha",
+          "votes": 112,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54290,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920192.png"
+        },
+        {
+          "name": "Dirshana Kumari Shahi",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 104,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54298,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Nirmala Kumari Thakur",
+          "party": "Janamat Party",
+          "votes": 96,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54306,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/580a4b0fdcbd54269708d61d3d83cf23.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792211.png"
+        },
+        {
+          "name": "Shobha Basukala",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 32,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54370,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/9a931a8d5bc519eb865231a21e294499.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Prakash Bahadur Pandey",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 28,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54374,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Kaman Singh Chaudhary",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 21,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54381,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771511854.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Devi Kumari Magar",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 16,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54386,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Shakti Raj Gurung",
+          "party": "National Republic Nepal",
+          "votes": 13,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54389,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793215.png"
+        },
+        {
+          "name": "Subas Mahato",
+          "party": "Nagarik Unmukti Party, Nepal (Ekal Chunab Chinha)",
+          "votes": 13,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54389,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792624.png"
+        },
+        {
+          "name": "Krishna Prasad Chapagain",
+          "party": "Independent",
+          "votes": 11,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54391,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Shanku Prasad Jaisi",
+          "party": "Independent",
+          "votes": 11,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54391,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Prabin Sapkota",
+          "party": "Independent",
+          "votes": 4,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54398,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Rabi Kumal",
+          "party": "Independent",
+          "votes": 4,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54398,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Pratap Singh Tamang",
+          "party": "Independent",
+          "votes": 3,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 54399,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 3,
+        "name": "Bagmati"
+      },
+      "district": "Chitwan",
+      "constituency": "chitwan-3",
+      "candidates": [
+        {
+          "name": "Sobita Gautam",
+          "party": "Rastriya Swatantra Party",
+          "votes": 41163,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 25501,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1772019530.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Renu Dahal",
+          "party": "Nepali Communist Party",
+          "votes": 15662,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 25501,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1772017115.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Shankar Raj Thapaliya",
+          "party": "CPN-UML",
+          "votes": 6874,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 34289,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/f913c61ccd44d2b7fd008c0e280ce758.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Tek Prasad Gurung",
+          "party": "Nepali Congress",
+          "votes": 5354,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 35809,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/3179d53e4c515219b12eadf27521a333.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Dipak Thapa (Magar)",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 856,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 40307,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/687040e3ef286dd7370201218ed18656.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Tojman Gurung",
+          "party": "Shram Sanskriti Party",
+          "votes": 293,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 40870,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Indra Maya Paudel",
+          "party": "Independent",
+          "votes": 235,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 40928,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Dambar Bahadur Tamang",
+          "party": "Ujaylo Nepal Party",
+          "votes": 150,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41013,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771512084.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770794244.png"
+        },
+        {
+          "name": "Ashik Prasad Mahato",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 83,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41080,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/b50e3921508ffdc41fbfeace093c65df.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Buddhi Raj Tamang",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 74,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41089,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Krishna Bahadur K.C.",
+          "party": "Rastriya Janamorcha",
+          "votes": 40,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41123,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/b8293358b61a93524a45155b36f46c1b.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920192.png"
+        },
+        {
+          "name": "Ranjana Paudel",
+          "party": "Independent",
+          "votes": 31,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41132,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Tek Bahadur Tamang",
+          "party": "Mongol National Organization",
+          "votes": 25,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41138,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Jit Bahadur B.K.",
+          "party": "Nepal Communist Party (Sainyukta)",
+          "votes": 12,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41151,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792701.png"
+        },
+        {
+          "name": "Madhu Maya Adhikari",
+          "party": "Independent",
+          "votes": 9,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41154,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Hari Maya Mahato",
+          "party": "Nagarik Unmukti Party",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41158,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771512133.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772012045.jpg"
+        },
+        {
+          "name": "Bijan Gurung",
+          "party": "Rastriya Nagarik Party",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41158,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772013800.jpg"
+        },
+        {
+          "name": "Seti Maya Tamang",
+          "party": "National Republic Nepal",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41158,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793215.png"
+        },
+        {
+          "name": "Parvati Paudel (Kafle)",
+          "party": "Independent",
+          "votes": 5,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41158,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Thaman Singh Sunar",
+          "party": "Janata Samjbadi Party-Nepal",
+          "votes": 3,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41160,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1771512039.png",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792403.png"
+        },
+        {
+          "name": "Krishna Prasad Adhikari",
+          "party": "Independent",
+          "votes": 3,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41160,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Badri Laxmi Kaba",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 2,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41161,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Rol Bahadur Gurung",
+          "party": "Independent",
+          "votes": 1,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 41162,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 7,
+        "name": "Sudurpaschim"
+      },
+      "district": "Dadeldhura",
+      "constituency": "dadeldhura-1",
+      "candidates": [
+        {
+          "name": "Tara Prasad Joshi",
+          "party": "Rastriya Swatantra Party",
+          "votes": 8909,
+          "is_winner": false,
+          "is_leading": true,
+          "margin": 3343,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/c9c6e0038e6cfa71e084c88e74b84cfe.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Nain Singh Mahar",
+          "party": "Nepali Congress",
+          "votes": 5566,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 3343,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/56a7e442896b4f986868cd3b9c3ae181.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Man Singh Mal",
+          "party": "Nepali Communist Party",
+          "votes": 4306,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 4603,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/5b83f10238a43b0659b1aa895a118fe4.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Chakra Prasad Snehi",
+          "party": "CPN-UML",
+          "votes": 1905,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7004,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/b2c8adb27c6c4766bbbc1baf271dd5d0.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Govind Kathayat",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 262,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8647,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/49612baf060eff289f154eb6b41963cb.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Mahendra Pun Magar",
+          "party": "Shram Sanskriti Party",
+          "votes": 227,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8682,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793904.png"
+        },
+        {
+          "name": "Laxmi Datt Bhatta",
+          "party": "Jaya Matribhumi Party",
+          "votes": 52,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8857,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792551.png"
+        },
+        {
+          "name": "Chandra Dev BK",
+          "party": "Rastriya Janamorcha",
+          "votes": 49,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8860,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920192.png"
+        },
+        {
+          "name": "Tirth Raj Upreti",
+          "party": "Independent",
+          "votes": 40,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8869,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Surendra Raj Bhatta",
+          "party": "Nepal Majdoor Kisan Party",
+          "votes": 35,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8874,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792272.png"
+        },
+        {
+          "name": "Gorakh Bahadur Air",
+          "party": "Independent",
+          "votes": 18,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8891,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        },
+        {
+          "name": "Khadak Bahadur Thakurathi",
+          "party": "Aam Janata Party (Ekal Chunab Chinha)",
+          "votes": 15,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8894,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/c9b9a611e603f0807386da93a214dbfe.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792474.png"
+        },
+        {
+          "name": "Surendra Rawal",
+          "party": "Independent",
+          "votes": 7,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 8902,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770810367.png"
+        }
+      ]
+    },
+    {
+      "source": "ekantipur",
+      "scraped_at": "2026-03-07T08:25:30.314832+05:45",
+      "province": {
+        "id": 5,
+        "name": "Lumbini"
+      },
+      "district": "Rukum East",
+      "constituency": "rukum-east-1",
+      "candidates": [
+        {
+          "name": "Pushpa Kamal Dahal",
+          "party": "Nepali Communist Party",
+          "votes": 10240,
+          "is_winner": true,
+          "is_leading": false,
+          "margin": 6778,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770873766.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793102.png"
+        },
+        {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes": 3462,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 6778,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770873738.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710534.png"
+        },
+        {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes": 3081,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 7159,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770873748.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770710566.png"
+        },
+        {
+          "name": "Lakhan Kumar Thapa",
+          "party": "Rastriya Swatantra Party",
+          "votes": 819,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 9421,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770873778.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770792349.png"
+        },
+        {
+          "name": "Sandip Pun",
+          "party": "Pragatishil Loktantrik Party",
+          "votes": 201,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10039,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770873808.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797797.png"
+        },
+        {
+          "name": "Roshan Shah",
+          "party": "Rastriya Prajatantra Party",
+          "votes": 82,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10158,
+          "image": "https://assets-generalelection2082.ekantipur.com/candidates/candidate-1770873786.jpg",
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793829.png"
+        },
+        {
+          "name": "Jyoti Roka Magar",
+          "party": "Mongol National Organization",
+          "votes": 54,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10186,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793489.png"
+        },
+        {
+          "name": "Dharma Kumar Budha",
+          "party": "National Republic Nepal",
+          "votes": 45,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10195,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770793215.png"
+        },
+        {
+          "name": "Juddha Bahadur Budha Magar",
+          "party": "Nepal Communist Party (Maoist)",
+          "votes": 35,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10205,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1770797745.png"
+        },
+        {
+          "name": "Chandra Prasad Shahi",
+          "party": "Rastriya Janamorcha",
+          "votes": 29,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10211,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1771920192.png"
+        },
+        {
+          "name": "Sheer Bahadur Budha",
+          "party": "Janata Samajbadi Party (Ekal Chunab Chinha)",
+          "votes": 3,
+          "is_winner": false,
+          "is_leading": false,
+          "margin": 10237,
+          "image": null,
+          "party_flag": "https://assets-generalelection2082.ekantipur.com/parties/party-1772010849.png"
+        }
+      ]
+    }
+  ]
+}
