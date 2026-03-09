@@ -3,7 +3,9 @@
 import json
 import logging
 import os
+import re
 import time
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -37,7 +39,7 @@ def fetch_url(url: str, params: dict = None, timeout: int = 30) -> str:
     """Fetch a URL with retries and return the response text."""
     logger = get_logger("fetch")
     headers = {
-        "User-Agent": "ElectionStats/1.0 (github.com/stats-kancha/np-election-82)",
+        "User-Agent": "ElectionStats/1.0 (github.com/stats-kancha/np-election-stats-82)",
     }
     for attempt in range(3):
         try:
@@ -75,6 +77,28 @@ def save_merged(data: dict) -> Path:
     out_path.write_text(json.dumps(data, ensure_ascii=False, indent=2))
     get_logger("merged").info("Saved %s", out_path)
     return out_path
+
+
+def normalize_text(text: str) -> str:
+    """Normalize text for comparison: NFC unicode, collapse whitespace, strip."""
+    if not text:
+        return ""
+    text = unicodedata.normalize("NFC", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def is_devanagari(text: str) -> bool:
+    """Check if text contains Devanagari script characters (Nepali)."""
+    return bool(text) and any("\u0900" <= c <= "\u097F" for c in text)
+
+
+def slug_to_title(slug: str) -> str:
+    """Convert a URL slug to a readable title-case name.
+
+    e.g. 'rastriya-swatantra-party-rsp' -> 'Rastriya Swatantra Party Rsp'
+    """
+    return " ".join(word.capitalize() for word in slug.split("-"))
 
 
 def make_constituency_record(
